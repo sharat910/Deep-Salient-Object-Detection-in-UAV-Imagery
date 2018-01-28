@@ -1,4 +1,5 @@
 import cv2
+import numpy as np
 from mean_shift_segmentation import segment 
 
 theta = 5
@@ -11,7 +12,7 @@ def add_padding(image):
 	image = cv2.copyMakeBorder( image, theta, theta, theta, theta, cv2.BORDER_REPLICATE)
 	return image
 
-def get_neighbour_indices(cur_i,cur_j,theta):
+def get_neighbour_indices(cur_i,cur_j,theta=5):
 	"""
 	Returns tuple of tuples containing neighbours' indices
 	Ex: ((0,0),(10,10))
@@ -24,7 +25,15 @@ def get_normalized_channels(image):
 	norm_b =  cv2.normalize(image[:,:,0].astype('float'), None, 0.0, 1.0, cv2.NORM_MINMAX)
 	norm_g =  cv2.normalize(image[:,:,1].astype('float'), None, 0.0, 1.0, cv2.NORM_MINMAX)
 	norm_r =  cv2.normalize(image[:,:,2].astype('float'), None, 0.0, 1.0, cv2.NORM_MINMAX)
-	return (norm_b,norm_g,norm_r)
+	return np.asarray([norm_b,norm_g,norm_r])
+
+def get_distance(image,i,j,n1,n2):
+	d = 0.0
+	for p in xrange(n1[0],n2[0]):
+		for q in xrange(n1[1],n2[1]):
+			# print image[:,i,j]-image[:,p,q]
+			d += np.linalg.norm(image[:,i,j]-image[:,p,q])
+	return d
 
 #def euclidian_distance(image,i,j,p,q):
 
@@ -32,17 +41,21 @@ def get_normalized_channels(image):
 if __name__ == '__main__':
 	original_image = cv2.imread("example.png")
 	shape = original_image.shape
+	C = np.zeros(shape)
 	print shape
 	seg = segment(original_image)
 	seg = add_padding(seg)
 	norm_seg = get_normalized_channels(seg)
-
+	print norm_seg[:,0,0]
 	for i in xrange(theta,theta+shape[0]):
 		for j in xrange(theta,theta+shape[1]):
-			print norm_seg[0][i,j]
+			print i-theta,j-theta
+			n1,n2 = get_neighbour_indices(i,j)
+			C[i-theta,j-theta] = get_distance(norm_seg,i,j,n1,n2)
 
-	print seg.shape
-
+	norm_C = cv2.normalize(C.astype('float'), None, 0.0, 1.0, cv2.NORM_MINMAX)
+	contrast_matrix = np.round(norm_C*255)
+	cv2.imwrite("contrast.png",contrast_matrix)
 	"""
 	gray_seg = rgb_to_gray(segmented_image)
 	float_gray_seg = cv2.normalize(gray_seg.astype('float'), None, 0.0, 1.0, cv2.NORM_MINMAX)
