@@ -1,5 +1,6 @@
 import cv2
 import numpy as np
+import sys
 from mean_shift_segmentation import segment 
 
 theta = 5
@@ -35,18 +36,16 @@ def get_distance(image,i,j,n1,n2):
 			d += np.linalg.norm(image[:,i,j]-image[:,p,q])
 	return d
 
-#def euclidian_distance(image,i,j,p,q):
+def gaussian_blur(image):
+	return cv2.GaussianBlur(image,(theta,theta),0)
 
-
-if __name__ == '__main__':
-	original_image = cv2.imread("example.png")
-	shape = original_image.shape
-	C = np.zeros(shape)
-	print shape
-	seg = segment(original_image)
+def get_normalized_contrast_matrix(image):
+	C = np.zeros(image.shape)
+	seg = segment(image)
+	cv2.imwrite("seg_blur.png",seg)
 	seg = add_padding(seg)
 	norm_seg = get_normalized_channels(seg)
-	print norm_seg[:,0,0]
+
 	for i in xrange(theta,theta+shape[0]):
 		for j in xrange(theta,theta+shape[1]):
 			print i-theta,j-theta
@@ -54,8 +53,26 @@ if __name__ == '__main__':
 			C[i-theta,j-theta] = get_distance(norm_seg,i,j,n1,n2)
 
 	norm_C = cv2.normalize(C.astype('float'), None, 0.0, 1.0, cv2.NORM_MINMAX)
-	contrast_matrix = np.round(norm_C*255)
-	cv2.imwrite("contrast.png",contrast_matrix)
+	return norm_C
+	
+
+
+if __name__ == '__main__':
+	original_image = cv2.imread(sys.argv[1])
+	#original_image = gaussian_blur(gaussian_blur(original_image))
+	shape = original_image.shape
+	norm_C_0 = get_normalized_contrast_matrix(original_image)
+	blur_l1 = gaussian_blur(original_image)
+	norm_C_1 = get_normalized_contrast_matrix(blur_l1)
+	blur_l2 = gaussian_blur(blur_l1)
+	norm_C_2 = get_normalized_contrast_matrix(blur_l2)
+	
+	norm_C_sum = norm_C_0 + norm_C_1 + norm_C_2
+
+	norm_C_final = cv2.normalize(norm_C_sum.astype('float'), None, 0.0, 1.0, cv2.NORM_MINMAX)
+
+	contrast_matrix = np.round(norm_C_final*255)
+	cv2.imwrite("contrast_blur.png",contrast_matrix)
 	"""
 	gray_seg = rgb_to_gray(segmented_image)
 	float_gray_seg = cv2.normalize(gray_seg.astype('float'), None, 0.0, 1.0, cv2.NORM_MINMAX)
