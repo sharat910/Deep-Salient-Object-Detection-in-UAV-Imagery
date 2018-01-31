@@ -1,6 +1,9 @@
 import cv2
 import numpy as np
 import sys
+
+
+from hsv_hist import get_hist,rgb_to_hsv_index
 from mean_shift_segmentation import segment 
 
 theta = 5
@@ -56,6 +59,21 @@ def get_normalized_contrast_matrix(image):
 	return norm_C
 	
 
+def add_hist_info(original_image,norm_C):
+	image_chan = get_normalized_channels(original_image)
+	histogram = get_hist(image_chan)
+	shape = original_image.shape
+
+	for i in xrange(shape[0]):
+		for j in xrange(shape[1]):
+			rgb = image_chan[:,i,j]
+			hsv_index = rgb_to_hsv_index(rgb)
+			p = histogram[hsv_index[0],hsv_index[1]]
+			norm_C[i,j] = norm_C[i,j] * (1.0/p)
+
+	norm_C = cv2.normalize(norm_C.astype('float'), None, 0.0, 1.0, cv2.NORM_MINMAX)
+
+	return norm_C
 
 if __name__ == '__main__':
 	original_image = cv2.imread(sys.argv[1])
@@ -71,8 +89,10 @@ if __name__ == '__main__':
 
 	norm_C_final = cv2.normalize(norm_C_sum.astype('float'), None, 0.0, 1.0, cv2.NORM_MINMAX)
 
-	contrast_matrix = np.round(norm_C_final*255)
-	cv2.imwrite("contrast_blur.png",contrast_matrix)
+	norm_C = add_hist_info(original_image,norm_C_final)
+
+	contrast_matrix = np.round(norm_C*255)
+	cv2.imwrite("contrast_blur_with_hist_info.png",contrast_matrix)
 	"""
 	gray_seg = rgb_to_gray(segmented_image)
 	float_gray_seg = cv2.normalize(gray_seg.astype('float'), None, 0.0, 1.0, cv2.NORM_MINMAX)
