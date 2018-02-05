@@ -75,10 +75,7 @@ def add_hist_info(original_image,norm_C):
 
 	return norm_C
 
-if __name__ == '__main__':
-	original_image = cv2.imread(sys.argv[1])
-	#original_image = gaussian_blur(gaussian_blur(original_image))
-	shape = original_image.shape
+def get_contrast_map_with_hist_info(original_image):
 	norm_C_0 = get_normalized_contrast_matrix(original_image)
 	blur_l1 = gaussian_blur(original_image)
 	norm_C_1 = get_normalized_contrast_matrix(blur_l1)
@@ -90,6 +87,13 @@ if __name__ == '__main__':
 	norm_C_final = cv2.normalize(norm_C_sum.astype('float'), None, 0.0, 1.0, cv2.NORM_MINMAX)
 
 	norm_C = add_hist_info(original_image,norm_C_final)
+
+
+if __name__ == '__main__':
+	original_image = cv2.imread(sys.argv[1])
+	#original_image = gaussian_blur(gaussian_blur(original_image))
+
+	get_contrast_map_with_hist_info(original_image)
 
 	contrast_matrix = np.round(norm_C*255)
 	cv2.imwrite("contrast_blur_with_hist_info.png",contrast_matrix)
