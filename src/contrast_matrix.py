@@ -43,7 +43,8 @@ def gaussian_blur(image):
 	return cv2.GaussianBlur(image,(theta,theta),0)
 
 def get_normalized_contrast_matrix(image):
-	C = np.zeros(image.shape)
+	shape = image.shape
+	C = np.zeros(shape)
 	seg = segment(image)
 	cv2.imwrite("seg_blur.png",seg)
 	seg = add_padding(seg)
@@ -88,6 +89,7 @@ def get_contrast_map_with_hist_info(original_image):
 
 	norm_C = add_hist_info(original_image,norm_C_final)
 
+	return norm_C
 
 if __name__ == '__main__':
 	original_image = cv2.imread(sys.argv[1])
@@ -96,7 +98,7 @@ if __name__ == '__main__':
 	get_contrast_map_with_hist_info(original_image)
 
 	contrast_matrix = np.round(norm_C*255)
-	cv2.imwrite("contrast_blur_with_hist_info.png",contrast_matrix)
+	cv2.imwrite("images/contrast_blur_with_hist_info.png",contrast_matrix)
 	"""
 	gray_seg = rgb_to_gray(segmented_image)
 	float_gray_seg = cv2.normalize(gray_seg.astype('float'), None, 0.0, 1.0, cv2.NORM_MINMAX)
