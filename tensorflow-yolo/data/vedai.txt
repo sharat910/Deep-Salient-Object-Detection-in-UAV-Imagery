@@ -1,0 +1,1242 @@
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000000.jpg 554 996 607 1021 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000001.jpg 326 805 363 819 0 390 803 435 819 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000002.jpg 593 826 620 867 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000003.jpg 839 880 915 903 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000004.jpg 272 615 312 632 0 322 434 346 507 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000006.jpg 3 720 38 745 0 1 278 22 312 0 12 314 34 353 0 70 334 106 366 0 76 170 109 187 0 111 163 141 201 0 141 167 164 209 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000007.jpg 88 943 109 981 0 111 957 134 1001 0 222 969 244 1010 0 241 998 266 1024 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000008.jpg 980 59 1020 134 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000009.jpg 111 69 141 134 0 147 47 165 99 0 210 104 226 149 0 227 103 247 150 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000010.jpg 822 152 864 183 0 749 71 785 97 0 907 79 939 103 0 484 199 570 240 0 459 230 537 264 0 650 273 670 294 0 789 278 812 312 0 920 332 955 355 0 902 290 940 312 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000011.jpg 65 458 90 523 0 8 403 43 441 0 283 188 320 212 0 306 285 358 309 0 406 299 461 355 0 517 94 558 126 0 639 76 715 117 0 762 65 825 103 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000012.jpg 899 173 920 221 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000013.jpg 407 122 450 149 0 308 130 370 187 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000014.jpg 359 625 404 650 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000015.jpg 361 579 530 651 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000016.jpg 87 667 129 696 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000017.jpg 823 801 871 830 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000018.jpg 602 857 646 881 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000019.jpg 11 29 87 69 0 77 20 123 44 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000020.jpg 288 281 326 305 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000021.jpg 736 109 801 133 0 745 22 788 40 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000022.jpg 41 556 90 575 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000025.jpg 144 688 163 727 0 392 681 416 732 0 433 821 507 844 0 477 991 530 1012 0 595 762 644 785 0 594 699 648 721 0 507 683 525 729 0 788 76 827 100 0 787 111 827 134 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000026.jpg 168 241 273 319 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000027.jpg 26 203 45 240 0 26 249 44 293 0 287 261 305 298 0 493 262 524 332 0 676 352 729 373 0 664 401 728 419 0 605 539 655 559 0 831 530 872 577 0 876 419 930 435 0 854 496 905 513 0 807 691 842 736 0 567 754 612 794 0 202 546 262 571 0 92 496 131 516 0 82 658 120 691 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000029.jpg 541 22 560 66 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000030.jpg 355 74 401 91 0 305 118 356 148 0 447 34 463 72 0 577 531 613 546 0 257 777 300 798 0 313 764 359 794 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000031.jpg 254 839 298 859 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000032.jpg 313 326 333 360 0 299 618 325 669 0 51 712 92 730 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000033.jpg 214 728 245 798 0 449 503 545 539 0 452 539 529 571 0 594 883 611 915 0 615 869 637 919 0 984 884 1011 930 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000035.jpg 27 636 76 664 0 43 660 84 684 0 488 319 532 349 0 690 606 708 642 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000036.jpg 381 189 403 223 0 448 792 473 841 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000037.jpg 151 2 190 24 0 220 282 244 342 0 220 221 242 260 0 972 672 996 713 0 992 678 1020 719 0 865 852 887 904 0 369 837 441 876 0 353 871 411 917 0 232 494 263 532 0 258 571 290 609 0 256 216 274 249 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000038.jpg 166 8 198 60 0 936 508 978 536 0 948 473 991 501 0 200 113 226 151 0 654 19 729 56 0 549 272 583 284 0 199 205 235 228 0 816 875 862 899 0 917 799 947 847 0 716 921 757 940 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000040.jpg 268 367 311 386 0 270 414 313 431 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000041.jpg 48 274 78 343 0 56 344 88 370 0 895 93 933 110 0 945 84 990 103 0 975 34 1017 51 0 318 591 353 627 0 397 914 415 955 0 402 979 422 1017 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000042.jpg 833 120 868 162 0 778 139 810 173 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000043.jpg 45 715 92 815 0 85 718 130 793 0 293 448 323 486 0 705 122 759 198 0 444 601 486 625 0 422 725 472 769 0 407 631 506 699 0 482 679 560 742 0 524 623 612 693 0 586 665 676 729 0 630 605 728 687 0 690 650 784 720 0 736 583 831 664 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000044.jpg 113 22 163 51 0 226 386 278 416 0 248 429 298 459 0 438 362 482 377 0 489 362 528 377 0 827 37 878 56 0 833 176 856 215 0 858 188 875 238 0 826 223 851 284 0 854 254 878 302 0 571 608 633 649 0 594 634 643 664 0 647 803 694 831 0 700 774 762 813 0 702 830 745 857 0 10 613 41 672 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000045.jpg 279 363 331 383 0 264 386 338 408 0 140 413 178 435 0 135 460 174 478 0 911 129 948 160 0 881 345 926 371 0 912 554 936 597 0 453 665 470 704 0 490 717 510 769 0 453 883 471 933 0 959 897 999 915 0 967 980 1002 998 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000046.jpg 862 229 912 247 0 924 218 970 236 0 957 61 980 103 0 992 182 1015 211 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000047.jpg 417 177 463 197 0 133 198 177 222 0 135 223 173 237 0 422 563 463 581 0 516 697 535 737 0 420 801 459 819 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000048.jpg 577 236 636 269 0 760 115 799 146 0 851 85 901 119 0 842 746 885 779 0 880 774 910 811 0 755 754 803 789 0 456 463 488 510 0 484 462 515 504 0 429 363 485 448 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000049.jpg 233 111 272 147 0 192 159 228 194 0 217 330 259 364 0 336 344 370 376 0 684 50 720 82 0 692 173 732 214 0 670 628 708 667 0 783 639 818 677 0 703 704 748 734 0 534 555 567 606 0 552 652 578 695 0 505 650 534 696 0 271 543 300 602 0 241 651 266 693 0 187 874 203 915 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000050.jpg 57 332 91 346 0 562 6 608 24 0 635 185 659 229 0 743 191 794 210 0 754 135 796 155 0 551 294 595 313 0 744 219 804 240 0 736 279 793 304 0 363 444 384 497 0 355 326 381 399 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000051.jpg 70 44 112 65 0 739 153 764 211 0 922 400 959 416 0 985 303 1002 344 0 976 206 996 242 0 831 542 848 585 0 954 533 993 565 0 826 669 841 705 0 477 626 528 699 0 342 891 381 937 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000052.jpg 217 141 257 214 0 322 204 356 236 0 746 564 776 603 0 851 699 885 747 0 376 461 425 497 0 134 657 169 699 0 157 652 188 679 0 173 638 205 669 0 46 390 85 414 0 41 424 85 443 0 95 900 138 930 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000053.jpg 569 39 641 67 0 420 94 487 137 0 175 41 217 59 0 744 583 766 618 0 916 577 938 619 0 923 631 944 675 0 163 848 179 879 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000054.jpg 72 321 135 414 0 78 433 158 516 0 89 538 173 632 0 108 642 183 744 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000055.jpg 503 171 538 201 0 483 187 523 223 0 63 503 104 520 0 740 242 756 277 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000056.jpg 791 857 858 884 0 710 776 747 798 0 809 129 839 175 0 614 170 628 209 0 613 210 636 245 0 448 538 492 568 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000057.jpg 676 71 703 103 0 648 158 685 233 0 619 360 647 395 0 552 459 638 507 0 753 526 774 563 0 68 573 113 602 0 403 415 435 458 0 431 414 461 453 0 593 602 617 642 0 842 463 883 480 0 709 822 720 861 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000058.jpg 257 128 284 203 0 286 122 313 201 0 531 288 577 308 0 603 406 642 461 0 553 581 575 630 0 546 742 568 787 0 663 631 712 647 0 668 743 719 767 0 673 799 711 812 0 112 847 135 896 0 142 847 161 897 0 2 345 66 373 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000059.jpg 600 835 629 943 0 643 833 715 915 0 715 821 766 884 0 780 806 815 843 0 819 811 851 848 0 837 843 884 897 0 896 824 959 891 0 921 812 990 878 0 949 794 1010 869 0 639 916 695 937 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000060.jpg 119 263 217 332 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000061.jpg 189 279 255 362 0 204 381 266 478 0 212 495 275 583 0 233 704 323 807 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000062.jpg 63 692 102 707 0 174 506 189 547 0 139 408 181 425 0 37 289 59 327 0 665 455 688 504 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000063.jpg 75 565 110 617 0 131 596 187 650 0 216 428 271 464 0 92 541 128 576 0 17 90 39 130 0 478 330 497 370 0 947 670 965 708 0 476 558 496 604 0 470 960 486 998 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000064.jpg 668 9 688 48 0 644 10 666 45 0 755 392 778 428 0 908 477 929 523 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000065.jpg 15 194 40 238 0 305 633 326 671 0 336 850 356 891 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000066.jpg 119 926 144 979 0 104 1000 148 1021 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000067.jpg 101 37 156 63 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000069.jpg 495 597 528 656 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000070.jpg 560 305 624 330 0 478 720 498 768 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000071.jpg 580 200 594 243 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000072.jpg 135 737 186 767 0 48 857 139 897 0 830 333 850 378 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000073.jpg 187 342 228 374 0 590 111 608 153 0 622 218 640 270 0 620 370 637 414 0 613 424 639 492 0 584 537 603 587 0 616 585 632 637 0 611 644 634 707 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000074.jpg 533 510 549 549 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000075.jpg 753 762 785 911 0 943 523 977 576 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000076.jpg 980 492 1016 509 0 976 514 1014 532 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000077.jpg 864 571 901 589 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000078.jpg 900 358 947 394 0 902 399 955 444 0 947 778 997 796 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000079.jpg 171 64 196 105 0 418 842 433 886 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000080.jpg 105 335 133 379 0 169 423 194 464 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000081.jpg 37 148 70 159 0 22 302 59 338 0 815 33 844 84 0 847 40 867 81 0 907 69 938 108 0 640 201 682 236 0 329 532 369 564 0 248 681 296 702 0 69 943 105 984 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000082.jpg 627 108 668 143 0 347 533 390 551 0 227 538 273 558 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000083.jpg 0 361 56 413 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000084.jpg 36 27 92 68 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000085.jpg 53 567 93 605 0 334 632 371 671 0 365 603 405 639 0 363 63 395 105 0 432 198 471 243 0 438 21 475 57 0 874 516 910 563 0 750 369 772 411 0 493 715 538 751 0 735 825 777 871 0 459 943 486 981 0 396 973 435 999 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000086.jpg 184 577 247 643 0 145 470 170 506 0 345 378 382 423 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000087.jpg 723 253 758 276 0 880 810 902 862 0 791 445 829 483 0 970 151 989 195 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000088.jpg 223 58 277 95 0 250 131 285 156 0 558 25 603 62 0 543 56 581 90 0 470 121 506 158 0 392 154 424 198 0 575 211 598 253 0 245 469 290 515 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000089.jpg 448 146 471 185 0 448 188 475 280 0 452 287 476 332 0 469 829 492 877 0 468 888 495 958 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000090.jpg 660 84 689 125 0 678 136 721 187 0 410 200 432 238 0 552 876 590 905 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000091.jpg 973 130 997 203 0 900 306 938 345 0 876 346 923 391 0 893 916 950 982 0 955 997 991 1035 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000092.jpg 613 123 650 163 0 1 529 39 545 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000094.jpg 2 702 31 730 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000095.jpg 472 606 511 629 0 957 613 997 636 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000096.jpg 449 344 497 363 0 501 345 574 380 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000097.jpg 689 871 757 925 0 697 917 753 971 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000098.jpg 479 489 521 558 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000099.jpg 424 151 540 245 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000100.jpg 580 302 637 368 0 920 46 976 101 0 781 6 846 61 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000101.jpg 492 189 613 254 0 555 858 601 884 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000102.jpg 70 935 120 1006 0 104 138 124 181 0 420 277 443 324 0 542 290 564 321 0 978 713 1002 752 0 981 759 1010 815 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000103.jpg 424 16 443 65 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000104.jpg 871 936 907 975 0 429 32 465 70 0 244 24 277 57 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000105.jpg 344 318 367 363 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000106.jpg 829 376 852 423 0 745 70 767 117 0 588 198 642 221 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000107.jpg 36 117 62 164 0 96 148 123 183 0 169 151 190 190 0 8 149 28 183 0 295 237 348 261 0 168 448 192 516 0 296 694 329 731 0 99 672 131 696 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000108.jpg 146 28 193 55 0 127 51 155 96 0 39 70 69 112 0 10 224 27 263 0 162 992 209 1014 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000109.jpg 804 223 827 280 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000110.jpg 654 510 694 525 0 712 932 760 955 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000111.jpg 278 82 305 137 0 433 114 480 132 0 998 383 1017 431 0 974 397 996 463 0 938 401 963 468 0 667 314 692 368 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000112.jpg 201 43 236 59 0 159 158 215 219 0 179 419 200 487 0 108 455 132 508 0 159 557 211 576 0 354 559 376 611 0 404 557 430 605 0 312 563 345 580 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000113.jpg 382 96 408 147 0 375 154 425 178 0 376 758 396 805 0 403 862 422 904 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000114.jpg 541 828 563 875 0 534 890 564 939 0 569 885 588 932 0 575 838 595 878 0 494 851 527 928 0 475 854 493 894 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000115.jpg 757 987 829 1006 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000116.jpg 336 715 381 733 0 160 756 176 795 0 173 811 187 845 0 194 813 214 852 0 214 776 235 811 0 182 863 202 897 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000117.jpg 362 251 450 283 0 292 191 316 229 0 904 247 921 278 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000118.jpg 410 152 436 204 0 636 24 681 62 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000119.jpg 479 94 530 161 0 505 45 536 89 0 708 0 749 24 0 934 175 965 200 0 938 374 991 400 0 953 403 1009 425 0 903 427 945 496 0 962 536 997 558 0 993 761 1015 820 0 807 954 848 1003 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000120.jpg 516 270 558 319 0 523 317 553 356 0 523 94 544 139 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000121.jpg 549 77 597 96 0 638 75 688 104 0 685 187 727 208 0 549 379 595 409 0 3 337 46 353 0 467 645 508 665 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000122.jpg 123 360 228 454 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000123.jpg 20 920 41 972 0 210 679 226 721 0 394 809 414 857 0 408 876 434 931 0 470 911 494 969 0 665 972 686 1003 0 576 906 594 942 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000124.jpg 323 4 383 46 0 322 39 370 72 0 334 54 385 83 0 333 104 381 126 0 298 8 320 50 0 219 200 264 216 0 179 201 208 240 0 113 265 145 303 0 251 885 268 918 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000125.jpg 160 360 183 417 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000126.jpg 212 223 258 288 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000127.jpg 781 349 878 475 0 881 395 1019 512 0 738 479 786 508 0 711 582 754 604 0 682 525 701 571 0 698 663 730 684 0 585 553 693 636 0 44 890 84 991 0 87 911 132 1001 0 4 877 43 959 0 141 652 228 714 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000128.jpg 72 9 90 50 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000129.jpg 687 791 750 836 0 645 834 700 866 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000130.jpg 396 144 461 185 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000131.jpg 381 46 653 306 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000132.jpg 685 817 728 858 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000133.jpg 652 419 683 460 0 888 432 918 469 0 867 870 914 892 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000134.jpg 553 71 586 143 0 244 189 332 257 0 372 90 398 147 0 603 77 636 182 0 505 70 539 197 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000135.jpg 140 146 169 220 0 370 347 424 471 0 152 440 182 544 0 94 712 133 794 0 82 840 115 899 0 141 948 167 994 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000136.jpg 547 274 606 291 0 552 340 606 362 0 695 265 732 322 0 580 574 624 588 0 374 750 427 776 0 820 753 861 767 0 797 807 856 827 0 820 836 866 854 0 611 489 650 534 0 752 13 806 36 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000137.jpg 676 860 705 917 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000138.jpg 915 280 953 307 0 946 300 1015 364 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000139.jpg 197 560 237 593 0 774 942 806 968 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000140.jpg 338 810 389 854 0 378 843 419 906 0 533 761 572 777 0 530 785 572 800 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000141.jpg 145 95 190 140 0 213 100 254 130 0 255 133 292 162 0 384 122 422 164 0 453 227 501 264 0 388 267 459 298 0 456 265 509 284 0 503 246 537 272 0 695 422 764 492 0 572 554 593 591 0 592 577 609 617 0 634 677 693 706 0 690 647 759 689 0 893 864 940 930 0 284 700 348 728 0 227 694 262 730 0 260 709 299 728 0 278 841 306 886 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000142.jpg 485 415 514 458 0 881 539 898 577 0 428 781 462 794 0 648 127 698 150 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000143.jpg 339 876 369 921 0 349 926 372 969 0 503 845 543 889 0 527 758 562 825 0 508 811 529 848 0 980 604 1016 645 0 962 642 991 682 0 812 635 862 703 0 785 702 812 736 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000144.jpg 596 602 636 618 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000145.jpg 205 52 245 90 0 244 84 266 105 0 231 87 261 113 0 268 119 304 156 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000146.jpg 160 797 219 824 0 222 799 267 817 0 415 789 454 807 0 454 848 497 877 0 468 912 512 933 0 518 900 561 920 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000147.jpg 888 257 925 291 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000148.jpg 107 192 155 218 0 68 144 158 195 0 622 355 661 401 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000149.jpg 367 518 406 583 0 263 564 292 614 0 402 746 458 814 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000150.jpg 215 65 255 83 0 221 147 263 161 0 295 131 338 149 0 821 312 866 350 0 407 428 454 464 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000151.jpg 770 295 817 318 0 822 302 860 324 0 722 335 758 362 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000152.jpg 218 659 259 709 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000153.jpg 57 431 91 480 0 27 439 61 478 0 719 439 763 479 0 712 498 751 547 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000154.jpg 509 520 533 550 0 658 359 684 427 0 806 255 841 274 0 841 260 881 275 0 835 321 877 336 0 880 147 898 183 0 945 127 972 146 0 1001 114 1021 141 0 1003 73 1021 107 0 960 454 992 491 0 991 505 1019 542 0 887 503 903 545 0 923 9 942 57 0 894 3 915 39 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000155.jpg 645 308 698 327 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000156.jpg 92 521 141 542 0 90 543 132 566 0 100 565 141 588 0 768 982 810 998 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000157.jpg 83 497 113 550 0 99 445 143 465 0 173 512 196 550 0 199 512 217 551 0 240 507 260 557 0 310 371 353 412 0 415 695 474 720 0 432 726 474 749 0 248 725 295 741 0 258 751 308 773 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000158.jpg 600 233 616 294 0 409 190 427 243 0 549 101 594 133 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000159.jpg 819 628 859 650 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000160.jpg 904 795 949 830 0 656 601 693 644 0 965 895 1002 939 0 930 903 965 949 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000161.jpg 863 645 908 663 0 866 708 885 749 0 945 707 963 752 0 967 703 988 754 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000162.jpg 181 152 223 204 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000163.jpg 815 574 855 600 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000164.jpg 566 200 614 217 0 609 908 650 923 0 522 959 569 978 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000165.jpg 739 848 822 928 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000166.jpg 263 113 301 159 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000167.jpg 69 370 104 405 0 36 516 72 554 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000168.jpg 187 707 223 743 0 365 775 408 813 0 521 794 554 836 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000169.jpg 13 912 35 964 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000170.jpg 46 971 93 1004 0 62 950 99 975 0 134 796 210 848 0 379 778 406 828 0 351 759 388 806 0 713 127 770 180 0 737 136 804 201 0 680 162 733 217 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000171.jpg 365 480 392 526 0 297 458 337 511 0 322 374 361 412 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000172.jpg 486 251 586 273 0 542 343 684 372 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000173.jpg 814 206 880 245 0 722 112 781 139 0 853 95 885 146 0 943 857 1016 899 0 980 780 1001 812 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000174.jpg 333 148 381 171 0 365 222 401 251 0 299 108 346 134 0 1000 913 1023 965 0 870 996 913 1020 0 917 976 956 1004 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000175.jpg 514 191 556 208 0 575 35 611 49 0 553 644 612 670 0 556 679 629 701 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000176.jpg 808 330 854 359 0 876 367 921 394 0 686 335 711 377 0 898 566 947 594 0 874 624 918 654 0 748 633 794 663 0 701 902 762 937 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000177.jpg 48 330 86 364 0 399 241 432 286 0 425 254 458 297 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000178.jpg 435 66 455 113 0 819 268 885 291 0 828 344 848 379 0 468 745 526 762 0 949 861 1002 879 0 983 836 1023 858 0 977 799 1002 816 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000179.jpg 827 17 859 67 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000180.jpg 752 567 787 607 0 939 791 962 846 0 718 849 749 923 0 350 750 386 786 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000181.jpg 320 111 392 148 0 221 88 294 125 0 150 134 189 199 0 170 323 229 383 0 66 343 105 375 0 596 710 621 749 0 622 714 658 759 0 637 667 659 707 0 713 643 732 680 0 708 686 734 722 0 750 673 816 711 0 779 638 821 664 0 801 625 843 655 0 461 572 548 593 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000182.jpg 585 549 625 584 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000183.jpg 302 516 349 537 0 278 544 325 576 0 102 667 146 687 0 103 685 154 714 0 314 810 328 842 0 257 812 273 846 0 156 799 181 834 0 163 912 185 952 0 463 812 502 841 0 418 591 441 635 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000184.jpg 707 804 729 847 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000185.jpg 491 416 529 467 0 287 552 330 573 0 245 483 263 520 0 294 862 348 886 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000186.jpg 297 406 364 434 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000187.jpg 883 367 905 415 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000188.jpg 188 628 207 670 0 210 630 228 672 0 193 590 214 623 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000189.jpg 561 240 584 299 0 964 736 1001 776 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000190.jpg 837 235 858 283 0 548 638 594 660 0 485 512 526 529 0 483 489 534 506 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000191.jpg 121 328 143 376 0 215 4 259 20 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000192.jpg 87 85 129 106 0 47 286 85 303 0 119 376 177 402 0 22 453 86 509 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000193.jpg 116 167 168 194 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000194.jpg 584 755 619 802 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000195.jpg 213 334 241 367 0 272 287 288 335 0 272 234 294 277 0 351 434 388 449 0 202 815 250 840 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000196.jpg 282 285 322 315 0 246 290 279 302 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000197.jpg 434 721 466 802 0 503 580 552 606 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000198.jpg 323 622 375 644 0 293 673 365 703 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000199.jpg 376 227 415 250 0 365 272 408 293 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000200.jpg 504 443 523 485 0 250 384 292 402 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000201.jpg 303 758 382 784 0 391 763 438 785 0 768 778 791 827 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000202.jpg 721 621 775 681 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000203.jpg 326 800 371 858 0 324 968 343 1015 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000204.jpg 935 141 981 186 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000205.jpg 238 795 284 815 0 290 816 349 842 0 972 84 1001 141 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000206.jpg 191 112 226 181 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000207.jpg 846 249 900 272 0 977 340 996 387 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000208.jpg 159 259 175 297 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000209.jpg 211 367 233 426 0 208 434 230 496 0 585 460 604 496 0 649 403 680 474 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000210.jpg 662 454 683 488 0 629 459 653 501 0 584 593 605 635 0 605 503 640 567 0 493 567 521 630 0 15 395 49 423 0 75 556 132 606 0 41 659 88 705 0 97 846 114 871 0 94 899 122 942 0 126 651 146 674 0 237 788 300 809 0 599 876 663 911 0 774 681 821 747 0 757 692 776 741 0 893 493 919 541 0 979 316 1024 357 0 964 359 999 405 0 371 573 429 604 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000211.jpg 227 269 268 285 0 141 210 184 228 0 53 214 89 232 0 73 237 94 272 0 94 218 143 235 0 98 251 145 277 0 143 228 191 253 0 225 204 267 242 0 5 659 47 683 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000212.jpg 81 884 125 901 0 64 716 87 775 0 277 742 295 774 0 251 866 298 885 0 377 775 440 801 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000213.jpg 135 318 185 372 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000214.jpg 485 237 552 268 0 291 930 321 976 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000215.jpg 849 14 899 42 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000216.jpg 46 591 125 620 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000217.jpg 730 649 790 671 0 502 502 525 545 0 501 588 524 652 0 349 552 377 607 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000218.jpg 156 967 203 986 0 707 528 764 548 0 801 14 846 34 0 850 19 898 36 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000219.jpg 102 272 125 383 0 798 187 947 218 0 535 580 569 604 0 763 766 786 830 0 526 875 544 910 0 472 850 500 898 0 497 907 519 960 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000220.jpg 374 702 424 737 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000221.jpg 117 852 135 883 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000222.jpg 328 525 379 543 0 424 494 475 513 0 299 447 344 468 0 243 446 284 461 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000223.jpg 767 283 799 321 0 551 356 572 401 0 522 353 547 405 0 496 358 516 396 0 658 461 744 480 0 527 704 562 782 0 140 855 190 869 0 132 879 174 910 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000224.jpg 81 367 127 384 0 114 398 130 436 0 48 401 84 415 0 158 204 205 222 0 240 472 286 510 0 72 562 98 600 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000225.jpg 71 579 112 618 0 122 612 150 637 0 677 356 708 391 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000226.jpg 705 341 752 386 0 572 370 612 404 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000227.jpg 250 425 296 487 0 90 445 140 479 0 779 192 846 236 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000228.jpg 310 10 353 40 0 688 123 713 186 0 716 120 747 184 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000229.jpg 856 268 904 289 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000230.jpg 727 198 751 246 0 668 276 694 327 0 852 444 891 465 0 927 455 967 477 0 194 798 244 818 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000231.jpg 195 709 257 738 0 165 973 232 1006 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000232.jpg 673 258 728 272 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000233.jpg 527 427 550 481 0 715 114 741 179 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000234.jpg 414 129 433 169 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000235.jpg 165 378 183 415 0 64 303 101 316 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000236.jpg 414 183 455 210 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000237.jpg 61 183 81 232 0 32 197 49 231 0 121 222 145 266 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000238.jpg 103 793 125 839 0 730 790 748 843 0 750 716 767 760 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000239.jpg 864 526 913 553 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000240.jpg 549 133 598 161 0 455 165 493 176 0 587 423 608 468 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000241.jpg 40 580 79 595 0 775 507 848 570 0 952 668 1005 709 0 907 712 970 764 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000242.jpg 23 617 52 655 0 206 335 239 358 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000243.jpg 255 86 287 132 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000244.jpg 749 488 775 545 0 637 495 661 543 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000245.jpg 283 162 297 200 0 300 210 346 228 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000246.jpg 422 265 462 304 0 724 460 747 507 0 638 755 681 770 0 571 758 621 775 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000247.jpg 89 134 109 174 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000248.jpg 36 77 57 132 0 246 702 263 744 0 858 775 876 809 0 827 894 879 914 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000249.jpg 636 3 679 39 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000250.jpg 231 426 250 468 0 605 540 622 580 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000251.jpg 204 24 241 41 0 758 93 782 152 0 781 105 801 155 0 708 81 734 119 0 713 131 737 212 0 368 943 391 1005 0 912 166 932 203 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000252.jpg 18 253 43 289 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000253.jpg 905 345 922 388 0 932 351 950 394 0 710 807 749 853 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000254.jpg 54 96 100 122 0 401 287 419 322 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000255.jpg 137 357 180 394 0 868 683 890 706 0 923 778 953 820 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000256.jpg 348 520 388 546 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000257.jpg 750 957 797 977 0 693 955 734 984 0 660 912 701 928 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000258.jpg 898 163 935 178 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000259.jpg 757 47 814 70 0 603 248 646 280 0 616 297 656 314 0 486 148 548 199 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000260.jpg 59 350 106 370 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000261.jpg 618 738 653 796 0 559 876 577 920 0 946 174 993 221 0 919 275 941 316 0 735 273 777 292 0 738 99 780 118 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000262.jpg 89 383 153 404 0 238 279 257 323 0 847 43 874 81 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000263.jpg 387 326 456 348 0 466 440 512 458 0 453 82 482 159 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000264.jpg 76 38 104 98 0 16 70 57 100 0 156 173 187 221 0 390 185 407 236 0 421 187 441 225 0 426 249 477 270 0 769 588 820 608 0 775 615 810 629 0 672 505 689 546 0 554 578 597 601 0 71 659 110 698 0 656 837 681 880 0 576 782 592 819 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000265.jpg 55 19 100 40 0 522 712 565 751 0 563 674 604 711 0 710 596 731 638 0 834 596 874 614 0 876 603 915 618 0 917 603 937 647 0 674 871 725 894 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000266.jpg 138 326 156 356 0 585 63 604 106 0 957 362 987 402 0 927 989 967 1004 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000267.jpg 108 245 140 291 0 364 202 408 220 0 671 214 748 234 0 343 309 369 354 0 788 406 825 445 0 794 432 829 463 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000268.jpg 208 366 269 386 0 407 518 427 559 0 667 344 705 364 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000269.jpg 249 507 266 549 0 649 593 693 610 0 913 145 963 165 0 676 105 748 125 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000270.jpg 544 4 568 39 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000271.jpg 259 614 306 643 0 354 621 406 649 0 616 187 636 227 0 595 226 630 278 0 571 230 591 262 0 1003 350 1022 385 0 515 709 529 748 0 649 743 742 777 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000272.jpg 514 663 536 712 0 621 524 677 544 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000273.jpg 304 60 351 77 0 300 92 341 106 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000274.jpg 203 174 240 188 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000275.jpg 559 735 603 752 0 505 728 546 747 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000276.jpg 27 628 114 664 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000277.jpg 73 81 107 119 0 107 60 126 97 0 83 102 116 135 0 175 84 198 120 0 418 50 439 95 0 206 297 252 316 0 472 525 491 574 0 89 406 115 456 0 694 313 738 331 0 594 368 618 406 0 622 359 642 411 0 801 372 825 423 0 758 457 789 524 0 948 79 972 143 0 977 85 998 134 0 982 146 998 186 0 808 873 825 910 0 224 671 274 695 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000278.jpg 732 91 784 163 0 364 169 383 217 0 476 437 504 487 0 466 510 497 570 0 6 876 25 909 0 469 875 490 910 0 496 894 515 940 0 462 808 483 862 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000279.jpg 400 703 418 753 0 343 721 360 757 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000280.jpg 250 887 292 906 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000281.jpg 792 713 815 763 0 788 641 819 702 0 424 867 463 884 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000282.jpg 345 739 366 804 0 330 809 360 860 0 422 810 443 850 0 418 730 441 804 0 463 794 481 840 0 457 568 479 601 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000283.jpg 345 154 369 215 0 139 512 190 540 0 125 460 192 481 0 563 460 608 485 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000284.jpg 775 554 816 593 0 690 579 737 625 0 676 655 714 695 0 718 693 766 727 0 819 727 847 791 0 728 868 783 1014 0 840 904 870 942 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000285.jpg 757 220 805 283 0 719 280 768 344 0 755 985 797 1010 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000286.jpg 191 842 254 864 0 103 838 176 863 0 113 712 151 760 0 63 751 109 769 0 352 626 377 729 0 344 734 367 773 0 312 749 332 789 0 570 638 605 732 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000287.jpg 195 756 246 801 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000288.jpg 574 73 616 89 0 588 489 630 527 0 462 776 514 834 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000289.jpg 664 20 718 46 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000290.jpg 307 934 322 978 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000291.jpg 143 613 201 638 0 300 432 367 455 0 109 356 136 420 0 288 600 318 642 0 525 204 552 246 0 511 202 531 245 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000292.jpg 609 134 634 183 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000293.jpg 853 561 893 610 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000294.jpg 358 480 409 498 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000295.jpg 507 200 532 250 0 738 210 774 259 0 721 370 773 401 0 550 180 625 211 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000296.jpg 856 241 898 266 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000297.jpg 264 264 312 304 0 154 350 197 378 0 132 245 164 277 0 135 304 193 360 0 225 184 312 225 0 275 367 298 398 0 319 366 344 427 0 174 457 223 477 0 278 148 327 187 0 167 380 197 433 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000298.jpg 59 237 98 272 0 696 662 738 679 0 128 829 162 859 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000299.jpg 764 18 783 61 0 785 15 810 51 0 625 75 676 112 0 806 81 865 106 0 685 592 729 616 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000300.jpg 796 42 860 110 0 915 134 936 180 0 722 225 748 269 0 753 292 776 337 0 680 203 699 241 0 519 190 566 216 0 473 193 508 206 0 837 445 850 484 0 836 493 850 529 0 391 429 417 482 0 448 890 474 927 0 415 904 446 975 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000301.jpg 265 20 289 70 0 391 434 410 481 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000302.jpg 9 94 53 111 0 2 532 72 564 0 72 534 163 558 0 74 507 125 529 0 907 834 926 881 0 983 121 1036 150 0 897 117 966 140 0 621 287 651 371 0 655 175 683 239 0 669 64 688 110 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000303.jpg 939 285 979 315 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000304.jpg 178 754 221 797 0 230 451 271 481 0 658 714 706 744 0 968 273 1014 293 0 875 242 901 293 0 833 251 863 305 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000305.jpg 748 122 769 157 0 900 116 957 134 0 959 117 1008 142 0 875 354 925 374 0 921 360 1022 381 0 547 361 618 390 0 843 961 893 981 0 906 962 950 982 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000306.jpg 162 436 207 467 0 131 481 157 525 0 100 466 122 501 0 87 369 115 434 0 124 266 170 290 0 881 174 916 189 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000307.jpg 65 759 84 806 0 362 794 387 843 0 462 695 487 759 0 459 768 487 811 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000308.jpg 891 816 951 838 0 830 817 877 835 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000309.jpg 989 739 1018 796 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000310.jpg 333 670 429 703 0 363 586 434 608 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000311.jpg 38 509 100 536 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000312.jpg 457 862 500 911 0 462 751 487 816 0 550 766 581 811 0 528 823 549 876 0 500 836 528 893 0 585 795 612 849 0 660 860 705 904 0 644 783 660 817 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000313.jpg 713 626 753 678 0 698 709 748 745 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000314.jpg 29 317 123 356 0 105 580 154 600 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000315.jpg 530 887 551 929 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000316.jpg 538 465 582 485 0 427 472 472 503 0 498 244 528 291 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000317.jpg 362 580 410 627 0 414 544 474 565 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000318.jpg 689 839 738 870 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000319.jpg 56 986 98 1021 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000320.jpg 161 378 187 450 0 98 275 146 294 0 355 281 377 323 0 601 640 644 654 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000321.jpg 660 720 682 765 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000322.jpg 38 156 58 205 0 1 968 25 1015 0 483 860 516 920 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000323.jpg 866 205 883 251 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000324.jpg 262 185 291 329 0 363 369 397 423 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000325.jpg 478 150 519 169 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000326.jpg 478 477 518 518 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000327.jpg 35 595 64 634 0 90 797 102 815 0 221 373 258 413 0 124 129 155 166 0 921 208 950 247 0 949 255 976 293 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000328.jpg 958 651 980 702 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000329.jpg 177 199 220 234 0 132 232 174 259 0 179 240 221 270 0 239 199 281 231 0 845 230 883 272 0 838 163 872 203 0 971 296 1008 339 0 143 494 178 528 0 280 685 319 725 0 403 844 435 880 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000330.jpg 217 19 254 79 0 262 20 318 91 0 264 94 289 130 0 319 139 351 180 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000331.jpg 113 23 171 43 0 110 62 168 89 0 258 333 283 380 0 495 116 518 175 0 526 179 547 229 0 553 173 588 231 0 637 159 706 240 0 203 552 252 642 0 211 789 247 879 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000332.jpg 271 796 308 833 0 116 645 152 677 0 289 774 324 806 0 163 617 205 654 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000333.jpg 870 592 893 641 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000334.jpg 114 546 229 666 0 0 466 36 504 0 232 760 265 793 0 391 893 424 928 0 407 865 443 900 0 510 981 541 1016 0 50 886 83 920 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000335.jpg 483 707 521 743 0 239 531 279 567 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000336.jpg 581 93 598 130 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000337.jpg 217 74 274 103 0 422 617 441 660 0 446 609 463 644 0 809 667 827 704 0 848 225 872 259 0 373 185 398 205 0 976 917 988 941 0 986 917 999 942 0 905 798 950 815 0 309 919 336 962 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000338.jpg 108 544 124 591 0 148 680 182 698 0 263 646 297 727 0 306 680 326 716 0 334 726 388 748 0 261 544 278 581 0 852 267 918 324 0 919 634 979 698 0 675 694 743 722 0 648 676 684 711 0 244 874 264 907 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000339.jpg 133 146 169 174 0 923 529 961 554 0 939 570 984 598 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000340.jpg 66 637 107 666 0 151 738 201 768 0 359 768 395 791 0 429 763 467 788 0 619 950 657 977 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000342.jpg 276 536 312 558 0 501 507 544 529 0 590 559 631 583 0 874 588 916 605 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000343.jpg 145 292 164 334 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000344.jpg 399 429 424 480 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000345.jpg 172 859 210 875 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000346.jpg 559 235 695 309 0 600 215 647 243 0 840 382 879 419 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000347.jpg 66 764 95 908 0 140 744 167 893 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000348.jpg 647 847 681 897 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000349.jpg 432 458 467 472 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000350.jpg 206 237 242 275 0 633 814 672 853 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000351.jpg 302 137 342 165 0 289 267 324 299 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000352.jpg 60 663 111 684 0 51 702 97 721 0 381 282 421 295 0 699 280 760 301 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000353.jpg 937 88 976 102 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000354.jpg 348 9 362 47 0 393 55 414 100 0 286 528 307 571 0 846 740 874 784 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000355.jpg 611 292 644 412 0 612 148 647 265 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000356.jpg 940 730 996 823 0 904 639 936 687 0 905 584 930 624 0 698 739 735 758 0 915 507 936 538 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000357.jpg 127 702 147 747 0 71 643 92 689 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000358.jpg 81 671 114 711 0 170 608 218 627 0 180 414 224 431 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000359.jpg 217 416 257 450 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000360.jpg 77 62 95 103 0 440 15 481 59 0 405 306 451 345 0 797 639 815 670 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000361.jpg 110 588 182 612 0 386 591 434 608 0 477 595 518 611 0 618 595 678 614 0 750 594 796 614 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000362.jpg 689 959 706 996 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000363.jpg 975 345 1018 359 0 919 347 957 362 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000364.jpg 307 459 349 474 0 549 472 576 485 0 599 440 636 455 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000366.jpg 446 156 488 173 0 463 833 510 871 0 464 911 504 949 0 931 520 976 534 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000367.jpg 711 45 729 82 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000368.jpg 703 106 742 133 0 715 745 741 794 0 385 550 436 581 0 457 951 494 964 0 210 948 259 962 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000370.jpg 445 698 489 714 0 821 557 857 572 0 842 387 895 412 0 879 656 900 704 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000371.jpg 22 118 50 176 0 197 386 285 480 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000372.jpg 46 725 62 762 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000373.jpg 46 67 79 252 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000374.jpg 399 833 422 888 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000375.jpg 429 978 461 1021 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000376.jpg 946 607 1001 624 0 795 671 849 694 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000377.jpg 84 33 101 69 0 73 229 113 261 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000378.jpg 471 681 506 702 0 425 680 466 696 0 384 640 429 657 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000379.jpg 458 336 500 353 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000380.jpg 540 87 582 128 0 490 122 542 175 0 257 7 329 81 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000381.jpg 655 375 691 431 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000382.jpg 662 865 712 890 0 667 967 747 995 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000383.jpg 224 440 240 486 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000384.jpg 877 11 892 65 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000385.jpg 214 361 231 405 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000386.jpg 582 51 734 176 0 749 325 893 448 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000387.jpg 107 322 143 372 0 149 287 190 336 0 258 236 299 283 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000388.jpg 355 532 392 579 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000389.jpg 938 509 959 560 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000390.jpg 760 547 833 628 0 681 618 760 694 0 583 689 685 783 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000391.jpg 303 48 330 74 0 316 53 365 95 0 830 433 972 552 0 725 957 779 1010 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000392.jpg 94 625 163 662 0 446 713 480 764 0 414 792 442 846 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000393.jpg 145 920 210 958 0 500 818 549 837 0 440 868 491 891 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000394.jpg 385 424 405 472 0 174 732 215 749 0 205 788 242 804 0 61 852 107 885 0 61 919 105 941 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000395.jpg 425 642 471 674 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000396.jpg 116 227 140 260 0 135 243 166 281 0 429 487 467 516 0 433 509 471 545 0 457 653 503 687 0 478 623 515 652 0 658 837 707 858 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000397.jpg 634 556 694 623 0 600 496 624 543 0 491 419 538 464 0 648 334 690 373 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000398.jpg 931 132 957 188 0 956 168 976 204 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000399.jpg 960 115 979 160 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000400.jpg 425 942 473 965 0 454 915 494 936 0 339 934 369 969 0 237 361 326 383 0 158 235 253 257 0 91 212 139 235 0 40 106 59 156 0 607 522 626 552 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000401.jpg 140 513 185 554 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000402.jpg 742 16 785 56 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000403.jpg 9 522 45 558 0 57 567 99 601 0 881 905 910 946 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000404.jpg 103 752 132 841 0 53 669 73 715 0 212 625 263 645 0 158 452 201 469 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000405.jpg 749 366 796 384 0 624 385 692 412 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000406.jpg 834 25 876 41 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000407.jpg 791 130 845 156 0 929 343 980 365 0 979 330 1023 346 0 968 395 1009 413 0 690 801 743 843 0 863 920 900 947 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000408.jpg 247 855 283 883 0 175 591 215 616 0 177 567 212 580 0 170 322 213 339 0 189 191 230 207 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000409.jpg 108 615 141 644 0 935 848 960 884 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000410.jpg 945 683 989 718 0 397 528 413 565 0 396 574 412 609 0 380 703 421 740 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000412.jpg 104 347 137 380 0 140 270 166 311 0 3 305 51 338 0 60 461 80 508 0 216 844 396 881 0 83 967 104 1012 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000413.jpg 21 163 45 214 0 46 172 72 211 0 130 155 182 188 0 236 272 258 317 0 294 352 337 386 0 343 261 365 310 0 379 189 518 219 0 364 148 451 178 0 367 107 441 136 0 453 91 525 114 0 387 71 460 96 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000414.jpg 471 192 513 270 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000415.jpg 393 221 483 273 0 631 71 718 125 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000416.jpg 797 780 823 822 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000417.jpg 164 635 243 694 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000418.jpg 544 323 572 370 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000419.jpg 415 765 459 811 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000420.jpg 900 197 963 245 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000421.jpg 552 672 579 748 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000422.jpg 959 43 1007 123 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000423.jpg 14 817 37 857 0 685 877 731 896 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000426.jpg 221 604 295 652 0 396 983 445 1023 0 560 642 577 673 0 591 619 608 671 0 964 786 998 807 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000427.jpg 590 508 630 549 0 469 594 515 631 0 742 581 791 613 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000428.jpg 105 186 128 224 0 554 391 725 447 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000429.jpg 861 109 887 148 0 819 31 862 67 0 721 44 776 81 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000430.jpg 491 123 519 197 0 370 220 392 265 0 424 392 478 426 0 822 172 845 220 0 323 712 371 751 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000431.jpg 26 680 66 711 0 59 421 85 466 0 323 570 344 614 0 189 423 232 441 0 64 348 83 415 0 394 136 436 159 0 416 102 462 121 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000432.jpg 65 19 98 38 0 56 102 97 128 0 46 159 86 212 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000433.jpg 8 162 48 180 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000434.jpg 685 302 709 336 0 623 370 646 415 0 577 383 597 431 0 482 285 528 302 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000435.jpg 725 56 745 103 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000436.jpg 558 464 596 483 0 815 932 855 961 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000437.jpg 755 486 785 512 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000438.jpg 448 914 498 932 0 496 268 570 289 0 657 263 708 280 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000439.jpg 667 10 700 45 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000440.jpg 457 636 527 681 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000441.jpg 68 285 98 325 0 326 272 405 316 0 475 252 524 286 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000442.jpg 43 531 276 760 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000443.jpg 854 855 893 908 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000444.jpg 867 192 896 234 0 831 169 863 270 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000445.jpg 901 655 958 709 0 878 443 938 468 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000446.jpg 958 534 991 572 0 799 534 847 567 0 771 544 808 572 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000447.jpg 298 578 360 605 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000448.jpg 596 106 625 125 0 168 138 200 191 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000449.jpg 743 763 778 813 0 756 812 804 830 0 773 827 794 882 0 925 529 964 546 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000450.jpg 431 105 481 122 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000451.jpg 650 140 684 200 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000452.jpg 111 549 142 580 0 139 530 166 579 0 224 483 271 505 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000453.jpg 102 317 147 348 0 39 166 65 235 0 86 302 119 323 0 79 283 115 301 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000454.jpg 573 53 632 97 0 758 104 793 133 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000455.jpg 261 723 299 743 0 112 732 224 768 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000456.jpg 321 832 345 902 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000457.jpg 205 273 231 307 0 739 509 800 534 0 511 525 567 563 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000458.jpg 256 992 301 1011 0 126 752 175 779 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000459.jpg 385 258 470 284 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000460.jpg 742 252 766 312 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000461.jpg 391 844 430 866 0 15 387 46 412 0 325 737 344 773 0 715 694 735 748 0 527 686 547 735 0 911 713 926 748 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000462.jpg 413 298 428 336 0 492 285 511 330 0 492 219 513 266 0 490 175 514 218 0 526 179 550 243 0 528 249 550 297 0 218 514 234 554 0 796 128 821 177 0 819 141 844 200 0 853 291 876 339 0 718 581 738 631 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000463.jpg 386 88 422 137 0 330 54 375 97 0 189 126 210 171 0 349 229 396 250 0 616 204 663 220 0 532 275 555 320 0 644 380 700 396 0 673 2 710 18 0 596 683 634 698 0 608 705 641 723 0 598 721 650 745 0 374 964 426 1014 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000464.jpg 132 346 165 380 0 53 421 92 463 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000465.jpg 283 194 307 246 0 758 316 819 387 0 787 535 823 563 0 171 456 195 505 0 222 861 260 890 0 170 888 220 927 0 529 796 576 840 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000466.jpg 518 133 574 174 0 579 0 637 25 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000467.jpg 296 751 341 794 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000468.jpg 648 196 735 230 0 737 228 805 250 0 759 255 833 284 0 775 286 833 314 0 844 330 917 360 0 858 368 899 383 0 717 385 894 415 0 807 605 849 625 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000469.jpg 299 827 322 876 0 324 824 348 873 0 364 291 379 326 0 262 196 296 242 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000471.jpg 329 402 408 480 0 329 526 374 573 0 272 540 317 583 0 475 378 518 421 0 139 683 175 717 0 302 675 442 817 0 500 546 613 665 0 573 477 609 514 0 615 239 650 278 0 122 926 159 966 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000472.jpg 8 45 94 127 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000473.jpg 591 725 617 784 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000474.jpg 253 424 276 469 0 473 373 496 422 0 431 569 450 618 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000475.jpg 168 19 199 87 0 276 26 297 65 0 358 249 374 285 0 327 562 371 578 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000476.jpg 65 40 109 88 0 446 760 477 798 0 536 655 590 718 0 601 534 720 686 0 782 360 810 395 0 544 368 578 405 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000477.jpg 449 222 501 405 0 407 392 433 435 0 231 82 280 191 0 140 987 158 1024 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000478.jpg 404 148 429 188 0 315 357 335 395 0 553 253 584 307 0 603 219 627 268 0 580 267 614 325 0 495 493 523 542 0 226 670 251 707 0 688 402 720 445 0 376 931 398 963 0 834 932 878 967 0 691 910 739 941 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000479.jpg 202 119 239 158 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000480.jpg 717 388 780 441 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000481.jpg 646 346 682 393 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000482.jpg 778 856 824 921 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000483.jpg 344 974 365 1021 0 397 974 421 1024 0 462 963 487 1022 0 525 961 548 1021 0 495 675 590 758 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000484.jpg 393 777 489 840 0 752 879 768 908 0 725 871 745 916 0 689 876 708 921 0 490 262 543 333 0 568 301 602 344 0 606 290 646 347 0 691 310 730 325 0 697 262 737 279 0 983 449 1004 498 0 956 329 997 347 0 845 289 885 303 0 840 218 889 234 0 985 143 1023 180 0 394 514 485 574 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000485.jpg 143 817 181 849 0 248 895 289 927 0 748 832 772 894 0 847 859 868 894 0 904 863 917 893 0 857 341 955 428 0 725 366 766 382 0 866 112 886 150 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000486.jpg 323 507 351 604 0 673 368 710 407 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000487.jpg 857 708 927 744 0 671 757 811 866 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000488.jpg 747 364 771 415 0 770 376 794 418 0 787 381 809 431 0 813 269 837 315 0 838 269 862 321 0 874 284 905 334 0 884 414 916 455 0 932 421 960 467 0 958 428 975 466 0 609 244 749 357 0 472 217 614 324 0 441 57 541 161 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000489.jpg 275 869 308 905 0 258 917 324 965 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000490.jpg 631 680 657 717 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000491.jpg 194 291 241 315 0 261 248 299 260 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000492.jpg 352 436 418 472 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000493.jpg 519 34 550 71 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000494.jpg 144 716 183 760 0 180 740 204 778 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000495.jpg 384 763 413 801 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000496.jpg 959 865 1011 891 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000497.jpg 342 358 388 376 0 740 325 765 360 0 703 301 731 341 0 766 301 787 354 0 780 274 799 308 0 739 367 776 381 0 592 537 631 608 0 365 683 431 705 0 302 518 327 559 0 335 534 355 568 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000498.jpg 313 427 345 476 0 366 457 389 491 0 389 457 416 497 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000499.jpg 742 986 793 1010 0 712 959 755 977 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000500.jpg 458 729 498 799 0 476 675 507 718 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000501.jpg 238 305 289 328 0 849 652 873 684 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000502.jpg 798 708 846 739 0 690 682 733 726 0 906 640 951 691 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000503.jpg 875 404 959 480 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000504.jpg 178 682 204 726 0 86 646 138 669 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000505.jpg 201 995 241 1018 0 243 281 290 315 0 476 312 517 340 0 699 203 741 233 0 743 176 782 207 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000506.jpg 724 562 764 588 0 337 882 368 931 0 189 910 236 980 0 169 931 213 988 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000507.jpg 640 137 661 180 0 332 896 350 929 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000508.jpg 104 206 137 243 0 128 262 174 335 0 527 287 558 329 0 751 318 795 376 0 111 314 147 364 0 493 387 526 428 0 545 240 599 324 0 632 651 670 705 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000509.jpg 77 306 135 338 0 253 768 303 803 0 112 438 152 491 0 159 456 204 484 0 757 785 805 837 0 724 837 771 880 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000510.jpg 553 603 589 646 0 743 933 769 986 0 782 910 813 1011 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000511.jpg 871 24 920 44 0 971 67 992 107 0 973 116 996 162 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000512.jpg 321 367 349 417 0 256 263 299 281 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000513.jpg 736 922 794 958 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000514.jpg 299 731 342 777 0 686 671 732 706 0 698 603 734 649 0 761 709 791 749 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000515.jpg 286 74 317 108 0 976 417 1008 460 0 811 827 846 870 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000516.jpg 156 95 200 138 0 53 11 94 61 0 660 125 705 147 0 734 294 775 354 0 675 384 696 416 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000517.jpg 208 14 260 57 0 170 57 213 97 0 191 70 239 117 0 215 392 254 426 0 557 739 598 783 0 494 685 574 760 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000518.jpg 372 523 393 563 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000519.jpg 964 154 992 185 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000520.jpg 873 222 915 253 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000521.jpg 837 158 874 193 0 504 573 541 603 0 513 782 540 829 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000523.jpg 377 355 407 377 0 756 526 799 579 0 886 344 919 376 0 888 859 925 889 0 735 740 781 785 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000524.jpg 469 741 494 794 0 501 744 519 796 0 430 716 461 791 0 344 499 394 531 0 850 891 902 920 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000525.jpg 537 246 591 290 0 487 289 526 333 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000526.jpg 353 633 386 682 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000527.jpg 66 310 112 354 0 454 340 494 376 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000528.jpg 761 730 804 790 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000529.jpg 859 366 874 403 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000530.jpg 738 129 792 157 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000531.jpg 282 280 307 317 0 315 129 364 152 0 326 99 366 115 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000532.jpg 704 896 727 940 0 621 958 667 976 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000533.jpg 217 148 252 195 0 55 61 80 104 0 86 62 106 100 0 112 56 138 103 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000534.jpg 920 634 972 699 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000535.jpg 485 379 525 454 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000536.jpg 736 175 769 225 0 632 686 698 732 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000537.jpg 593 227 634 252 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000538.jpg 695 250 715 294 0 659 283 685 343 0 606 305 628 348 0 838 430 880 478 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000539.jpg 246 367 262 402 0 249 491 271 536 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000540.jpg 478 240 526 258 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000541.jpg 306 432 329 478 0 337 433 365 483 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000542.jpg 811 225 863 263 0 715 251 749 291 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000543.jpg 624 392 664 410 0 618 252 653 287 0 553 196 591 230 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000544.jpg 420 741 441 779 0 383 587 405 625 0 424 863 444 899 0 423 913 440 951 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000545.jpg 663 60 683 103 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000546.jpg 691 631 741 651 0 373 314 408 358 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000547.jpg 191 45 215 87 0 161 36 184 77 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000548.jpg 677 923 720 969 0 556 858 596 905 0 548 888 578 922 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000549.jpg 340 120 363 177 0 789 672 855 725 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000550.jpg 958 727 1013 756 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000551.jpg 366 695 411 715 0 911 657 944 672 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000552.jpg 273 19 303 57 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000553.jpg 665 29 686 70 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000554.jpg 257 927 278 963 0 297 733 322 779 0 440 678 471 718 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000555.jpg 134 536 155 580 0 91 710 115 748 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000556.jpg 585 68 651 119 0 804 118 845 148 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000557.jpg 310 289 338 323 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000558.jpg 288 22 321 49 0 602 475 651 496 0 635 537 703 606 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000559.jpg 465 832 538 909 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000561.jpg 316 420 363 463 0 411 447 475 517 0 212 571 256 622 0 227 513 294 569 0 727 870 769 920 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000562.jpg 644 468 693 493 0 31 573 82 605 0 804 455 899 482 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000563.jpg 593 232 637 252 0 670 304 696 370 0 671 389 697 443 0 716 349 748 387 0 838 288 881 320 0 796 158 839 188 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000564.jpg 28 623 66 662 0 110 542 172 611 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000565.jpg 611 119 690 189 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000566.jpg 61 308 103 336 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000567.jpg 135 733 179 788 0 349 431 389 447 0 396 443 441 458 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000568.jpg 677 581 722 625 0 713 430 741 471 0 707 603 730 651 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000569.jpg 870 567 916 592 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000570.jpg 769 117 822 136 0 579 750 626 775 0 844 830 861 871 0 645 938 697 960 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000571.jpg 899 626 941 667 0 883 654 924 683 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000572.jpg 660 641 676 673 0 677 630 711 661 0 162 461 196 510 0 107 566 145 596 0 152 558 199 580 0 191 591 237 667 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000573.jpg 180 259 207 299 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000574.jpg 559 666 598 712 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000575.jpg 522 71 568 131 0 453 148 495 219 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000576.jpg 595 379 636 415 0 548 340 592 380 0 491 367 531 407 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000577.jpg 23 57 47 229 0 51 142 73 231 0 81 160 102 222 0 143 797 187 816 0 149 847 192 866 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000578.jpg 700 66 718 114 0 726 251 746 294 0 791 967 810 1010 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000579.jpg 191 297 213 339 0 187 403 206 447 0 232 403 251 445 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000580.jpg 917 467 994 491 0 643 470 691 491 0 524 466 562 491 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000581.jpg 526 624 544 664 0 546 953 559 975 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000582.jpg 239 86 267 125 0 134 482 167 517 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000583.jpg 839 449 860 484 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000584.jpg 808 469 825 509 0 831 482 917 657 0 971 78 1015 91 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000585.jpg 16 163 55 180 0 223 933 263 966 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000586.jpg 712 356 727 395 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000587.jpg 559 971 609 990 0 787 797 808 844 0 938 34 963 96 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000588.jpg 815 222 836 262 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000589.jpg 288 648 323 667 0 903 603 944 618 0 896 651 941 670 0 785 301 837 321 0 786 321 826 341 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000590.jpg 279 85 327 121 0 266 187 298 245 0 214 579 231 621 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000591.jpg 51 368 69 410 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000592.jpg 113 618 163 635 0 116 663 161 682 0 321 652 341 691 0 396 638 421 695 0 449 651 477 702 0 518 638 541 691 0 477 569 522 587 0 351 537 515 564 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000593.jpg 292 75 359 107 0 368 136 465 202 0 162 74 188 125 0 271 627 292 677 0 275 750 295 786 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000594.jpg 15 425 58 459 0 159 188 201 212 0 144 207 189 234 0 185 282 218 324 0 245 178 280 223 0 328 312 367 345 0 369 299 411 326 0 579 622 598 672 0 539 558 558 611 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000595.jpg 346 353 392 375 0 335 468 386 505 0 403 386 453 404 0 908 296 1013 327 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000596.jpg 159 992 211 1009 0 192 923 239 944 0 436 817 482 838 0 89 169 129 188 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000597.jpg 364 205 387 258 0 819 246 854 278 0 522 562 558 600 0 564 503 614 541 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000598.jpg 773 530 824 552 0 786 315 828 331 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000599.jpg 584 475 759 508 0 162 931 226 959 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000601.jpg 706 473 728 511 0 571 858 589 908 0 733 459 765 522 0 787 459 807 517 0 813 464 836 529 0 803 854 828 927 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000602.jpg 193 135 245 161 0 237 118 286 149 0 688 17 731 62 0 510 466 547 497 0 960 383 985 421 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000603.jpg 883 102 907 158 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000604.jpg 379 740 427 806 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000605.jpg 875 396 918 407 0 419 958 443 1001 0 871 670 915 682 0 818 732 862 746 0 750 783 809 802 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000607.jpg 236 368 288 387 0 803 87 861 107 0 64 372 118 387 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000608.jpg 894 148 924 182 0 792 278 825 313 0 532 528 581 571 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000609.jpg 407 516 450 558 0 373 517 416 559 0 480 795 571 828 0 947 237 989 262 0 933 391 977 408 0 847 787 884 801 0 893 792 930 816 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000610.jpg 261 182 305 196 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000611.jpg 678 601 728 622 0 622 557 669 584 0 624 421 669 438 0 319 350 334 389 0 621 395 674 418 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000612.jpg 502 521 590 551 0 482 617 572 666 0 793 636 879 678 0 734 43 768 77 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000613.jpg 686 81 745 96 0 635 104 686 125 0 705 105 798 135 0 821 110 869 128 0 900 107 947 127 0 889 80 933 97 0 906 253 948 293 0 607 347 640 390 0 36 131 81 147 0 714 776 734 819 0 710 959 737 1000 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000614.jpg 409 276 425 314 0 684 364 706 409 0 766 356 783 391 0 888 361 919 407 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000615.jpg 332 660 349 703 0 268 931 448 956 0 421 820 439 853 0 583 910 603 945 0 563 987 609 1018 0 971 677 1013 693 0 898 280 926 321 0 952 269 970 304 0 882 158 914 205 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000616.jpg 373 537 393 580 0 370 319 388 359 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000617.jpg 802 5 821 59 0 845 7 865 45 0 755 7 774 55 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000618.jpg 927 172 1012 197 0 880 174 915 190 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000619.jpg 46 344 64 381 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000620.jpg 467 32 499 48 0 247 23 289 70 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000621.jpg 331 732 351 786 0 350 738 374 783 0 401 739 420 784 0 824 756 840 792 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000622.jpg 947 910 993 926 0 544 830 559 870 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000623.jpg 473 864 494 907 0 476 910 499 953 0 469 958 500 1020 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000624.jpg 456 788 485 832 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000625.jpg 893 509 929 531 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000626.jpg 3 560 64 589 0 227 547 279 584 0 73 696 104 741 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000627.jpg 148 677 187 691 0 141 700 188 722 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000628.jpg 225 736 332 791 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000629.jpg 730 221 770 261 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000630.jpg 48 786 90 832 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000631.jpg 679 914 699 964 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000632.jpg 520 625 536 664 0 409 709 432 744 0 447 673 467 766 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000633.jpg 185 635 210 684 0 354 572 396 589 0 194 225 232 255 0 922 120 963 172 0 843 110 878 138 0 671 168 750 195 0 675 231 741 268 0 818 484 835 520 0 842 482 870 534 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000634.jpg 403 148 507 240 0 486 145 585 233 0 478 219 587 311 0 560 214 662 304 0 554 297 659 378 0 629 367 739 464 0 703 345 812 443 0 753 337 795 363 0 368 885 450 946 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000635.jpg 311 98 334 152 0 322 249 345 291 0 121 162 199 196 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000636.jpg 707 836 742 881 0 627 907 722 955 0 619 860 683 901 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000637.jpg 40 530 93 551 0 154 547 208 563 0 265 522 309 552 0 135 610 224 669 0 472 705 522 733 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000638.jpg 787 499 835 524 0 885 440 926 483 0 912 469 942 506 0 939 446 1006 467 0 681 372 741 400 0 859 316 934 342 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000639.jpg 701 378 747 422 0 674 585 694 633 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000640.jpg 200 108 250 137 0 42 49 155 78 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000641.jpg 62 471 85 512 0 66 417 86 461 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000642.jpg 666 53 724 110 0 739 10 783 52 0 664 926 682 965 0 906 920 925 961 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000643.jpg 5 812 91 842 0 31 888 80 913 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000644.jpg 524 71 566 86 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000645.jpg 845 58 958 86 0 521 73 626 99 0 693 13 737 41 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000646.jpg 843 952 893 976 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000647.jpg 411 742 434 789 0 225 479 263 493 0 983 473 1021 513 0 558 949 581 994 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000648.jpg 115 562 146 717 0 188 611 203 650 0 98 305 115 351 0 196 135 214 171 0 127 105 145 144 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000649.jpg 151 24 208 47 0 91 23 123 73 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000650.jpg 548 547 567 585 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000651.jpg 204 651 262 678 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000652.jpg 886 267 962 298 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000653.jpg 515 703 549 754 0 562 717 584 762 0 669 681 701 740 0 716 830 770 898 0 563 899 584 938 0 862 246 914 287 0 875 402 897 441 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000654.jpg 197 759 231 792 0 390 603 418 638 0 480 508 515 544 0 563 406 599 451 0 613 310 646 343 0 716 263 750 291 0 836 118 880 147 0 940 74 967 104 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000655.jpg 477 31 530 78 0 564 64 659 103 0 651 531 684 574 0 699 508 729 587 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000656.jpg 176 473 206 519 0 213 473 241 523 0 362 480 392 549 0 406 459 437 543 0 446 471 480 536 0 511 45 579 73 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000657.jpg 423 62 477 78 0 436 85 479 100 0 456 229 555 255 0 476 309 555 337 0 472 353 554 377 0 448 680 551 702 0 468 761 550 784 0 438 880 548 905 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000658.jpg 927 445 970 461 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000659.jpg 826 217 846 257 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000660.jpg 470 757 490 801 0 818 735 859 753 0 769 268 788 302 0 332 839 360 894 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000661.jpg 397 584 449 606 0 510 582 556 601 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000662.jpg 5 304 49 321 0 821 94 862 109 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000663.jpg 499 362 540 378 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000664.jpg 729 957 778 979 0 629 888 656 982 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000665.jpg 611 56 666 74 0 618 153 668 170 0 727 66 779 87 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000666.jpg 662 837 700 852 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000667.jpg 293 934 332 951 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000668.jpg 102 270 126 431 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000669.jpg 895 826 911 864 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000670.jpg 502 127 547 146 0 503 256 541 272 0 658 213 703 231 0 854 103 903 120 0 853 146 904 164 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000671.jpg 449 415 493 433 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000672.jpg 767 329 811 349 0 457 190 498 204 0 401 322 445 339 0 59 352 101 370 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000673.jpg 512 651 566 709 0 607 615 655 675 0 774 625 818 690 0 927 613 960 691 0 949 375 989 393 0 291 166 331 182 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000674.jpg 254 382 304 399 0 566 352 611 372 0 744 245 783 261 0 879 615 931 643 0 959 624 1010 650 0 384 880 432 896 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000675.jpg 244 283 296 304 0 569 283 611 306 0 581 423 622 443 0 553 618 629 639 0 20 938 60 953 0 63 1003 107 1018 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000676.jpg 599 344 638 361 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000677.jpg 552 605 604 657 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000678.jpg 860 762 889 816 0 856 845 879 888 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000679.jpg 428 852 483 875 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000680.jpg 13 149 31 193 0 78 267 97 312 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000681.jpg 150 995 202 1023 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000682.jpg 73 78 233 109 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000683.jpg 273 28 323 60 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000684.jpg 145 50 164 96 0 117 116 137 168 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000685.jpg 82 38 125 54 0 85 80 129 98 0 224 147 268 162 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000686.jpg 17 606 43 644 0 16 732 48 767 0 836 785 876 812 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000687.jpg 399 376 439 392 0 762 376 811 397 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000688.jpg 766 304 809 322 0 595 117 613 171 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000689.jpg 930 346 1023 368 0 621 986 663 1004 0 647 450 700 468 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000690.jpg 971 770 1000 857 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000691.jpg 169 678 193 717 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000692.jpg 812 214 833 258 0 923 216 941 253 0 946 215 963 256 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000693.jpg 72 205 92 252 0 117 219 136 258 0 207 221 223 260 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000694.jpg 956 630 975 666 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000695.jpg 411 793 455 815 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000696.jpg 782 47 822 82 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000697.jpg 475 376 495 411 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000698.jpg 855 353 880 397 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000699.jpg 10 64 56 130 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000700.jpg 39 619 81 645 0 931 906 976 931 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000701.jpg 862 931 896 949 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000702.jpg 98 357 144 376 0 425 377 469 395 0 479 346 531 367 0 519 344 599 367 0 505 548 540 564 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000703.jpg 477 441 519 458 0 758 411 854 441 0 966 664 1008 683 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000704.jpg 77 955 257 983 0 677 900 736 932 0 571 835 590 871 0 546 452 563 490 0 575 597 591 638 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000705.jpg 723 5 763 22 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000706.jpg 235 739 279 756 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000707.jpg 635 866 720 893 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000708.jpg 970 866 1010 881 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000709.jpg 488 863 506 904 0 884 24 903 66 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000710.jpg 18 126 41 173 0 266 833 301 925 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000711.jpg 317 29 358 43 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000712.jpg 502 746 523 781 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000713.jpg 207 114 225 154 0 443 9 484 25 0 439 31 499 59 0 461 59 511 79 0 318 254 339 290 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000714.jpg 925 518 949 559 0 905 479 932 519 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000715.jpg 263 920 302 937 0 367 873 409 897 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000716.jpg 157 914 345 941 0 755 897 798 912 0 697 895 738 909 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000718.jpg 459 88 508 117 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000719.jpg 515 540 553 590 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000720.jpg 692 292 744 312 0 697 393 735 414 0 693 420 743 437 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000721.jpg 521 61 564 79 0 635 71 686 91 0 624 160 687 181 0 514 165 554 179 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000722.jpg 61 607 100 622 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000723.jpg 612 398 651 457 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000724.jpg 411 651 432 691 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000725.jpg 181 213 224 229 0 186 256 230 273 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000726.jpg 469 312 489 355 0 422 260 449 319 0 324 323 349 381 0 399 527 487 553 0 950 999 990 1015 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000727.jpg 811 232 902 255 0 811 266 902 290 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000728.jpg 626 713 668 730 0 957 911 991 927 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000729.jpg 4 426 160 480 0 245 833 301 854 0 578 940 631 963 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000730.jpg 77 900 152 941 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000731.jpg 300 728 347 746 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000732.jpg 53 917 99 943 0 311 917 351 944 0 580 933 627 965 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000733.jpg 43 174 59 215 0 64 172 83 216 0 608 31 626 75 0 671 31 690 69 0 266 174 335 199 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000734.jpg 499 722 518 766 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000735.jpg 550 565 612 749 0 589 577 641 744 0 570 625 594 666 0 570 664 585 706 0 562 701 580 742 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000736.jpg 195 531 231 606 0 912 571 934 609 0 911 246 932 289 0 914 61 940 107 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000737.jpg 230 483 286 523 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000738.jpg 806 733 854 752 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000739.jpg 703 986 859 1011 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000740.jpg 13 60 50 74 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000741.jpg 872 638 920 655 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000742.jpg 750 489 789 503 0 904 332 924 381 0 866 317 887 358 0 712 24 773 50 0 787 28 864 58 0 449 221 470 268 0 77 920 130 946 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000743.jpg 89 108 105 147 0 140 95 161 137 0 585 223 631 241 0 413 654 427 694 0 350 551 373 603 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000744.jpg 130 118 173 135 0 345 528 386 544 0 529 264 549 308 0 997 296 1018 335 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000745.jpg 194 83 276 108 0 349 43 369 89 0 299 27 318 73 0 396 52 422 104 0 333 305 352 341 0 293 484 331 499 0 821 222 867 252 0 771 265 841 290 0 793 117 823 141 0 810 87 843 107 0 972 73 990 117 0 761 487 810 506 0 975 719 994 761 0 469 882 488 919 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000746.jpg 49 208 69 249 0 161 679 177 720 0 103 556 168 578 0 484 888 524 905 0 810 710 828 747 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000747.jpg 866 807 887 842 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000748.jpg 492 543 532 559 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000749.jpg 647 106 689 126 0 676 316 695 358 0 795 218 820 256 0 877 668 920 707 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000750.jpg 731 8 774 24 0 732 30 764 46 0 669 149 715 176 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000751.jpg 26 386 91 412 0 203 261 238 301 0 532 254 566 281 0 396 313 470 339 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000752.jpg 618 44 642 97 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000753.jpg 722 97 743 144 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000754.jpg 455 876 496 893 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000755.jpg 496 601 554 638 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000756.jpg 803 484 839 505 0 861 602 885 629 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000757.jpg 336 28 407 103 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000758.jpg 448 848 495 893 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000759.jpg 25 701 52 764 0 143 742 200 779 0 176 936 203 1001 0 340 742 392 763 0 553 665 579 727 0 599 639 629 674 0 615 597 635 636 0 617 538 635 581 0 621 487 642 528 0 623 432 641 470 0 623 367 643 404 0 625 314 643 350 0 445 40 486 57 0 161 69 205 88 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000760.jpg 22 125 72 238 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000761.jpg 384 56 434 73 0 793 46 829 70 0 786 67 846 101 0 854 147 1007 171 0 712 402 733 451 0 681 383 700 420 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000762.jpg 84 230 125 248 0 154 162 216 190 0 200 3 296 54 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000763.jpg 794 295 821 364 0 831 266 848 302 0 854 361 873 403 0 913 250 959 266 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000764.jpg 208 673 228 713 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000765.jpg 909 212 928 255 0 950 218 967 260 0 473 438 507 469 0 434 460 475 494 0 535 449 574 488 0 593 260 632 295 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000766.jpg 144 680 196 717 0 284 502 304 556 0 282 450 309 499 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000767.jpg 251 139 270 189 0 737 603 785 620 0 809 606 857 644 0 860 633 903 649 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000768.jpg 357 942 370 973 0 890 219 910 266 0 796 637 833 653 0 969 484 993 536 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000769.jpg 24 177 68 196 0 94 178 147 209 0 641 103 662 143 0 820 135 860 150 0 821 235 847 293 0 649 452 669 501 0 832 486 869 499 0 828 507 870 526 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000770.jpg 771 97 828 120 0 759 142 834 175 0 958 244 994 283 0 915 380 962 427 0 935 450 991 474 0 869 417 920 463 0 653 393 672 436 0 648 247 674 326 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000771.jpg 870 226 887 264 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000772.jpg 268 868 288 911 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000773.jpg 298 608 347 627 0 456 679 475 723 0 517 360 562 378 0 386 35 402 74 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000774.jpg 483 340 528 432 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000775.jpg 771 234 818 265 0 937 31 957 79 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000776.jpg 720 840 734 879 0 777 690 811 720 0 814 688 853 727 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000777.jpg 944 100 992 119 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000778.jpg 542 75 580 92 0 314 106 332 143 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000779.jpg 647 174 696 205 0 680 257 724 283 0 688 280 729 306 0 811 397 855 414 0 816 525 866 540 0 969 122 1014 150 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000780.jpg 195 85 213 125 0 243 139 279 162 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000781.jpg 820 261 843 315 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000782.jpg 340 753 380 772 0 896 158 913 197 0 942 197 959 235 0 934 698 958 739 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000783.jpg 40 792 65 842 0 294 511 344 537 0 348 517 390 536 0 299 236 381 263 0 313 272 363 290 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000784.jpg 598 790 640 806 0 690 81 732 110 0 459 557 529 596 0 152 773 221 796 0 132 1003 207 1024 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000785.jpg 146 209 168 248 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000786.jpg 86 643 130 670 0 331 646 374 664 0 840 522 857 563 0 883 513 901 547 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000787.jpg 72 534 91 579 0 65 455 89 504 0 106 508 126 551 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000788.jpg 75 681 116 701 0 504 401 546 418 0 573 453 590 490 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000789.jpg 130 434 179 455 0 98 461 139 480 0 483 553 500 594 0 881 119 899 158 0 916 128 948 175 0 1001 110 1019 152 0 433 793 486 815 0 500 556 527 633 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000790.jpg 520 495 569 512 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000791.jpg 439 320 457 361 0 650 135 681 172 0 788 73 832 104 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000792.jpg 607 128 629 158 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000793.jpg 26 114 65 139 0 311 402 356 419 0 550 200 571 246 0 794 531 817 575 0 541 936 564 978 0 942 964 964 1013 0 476 734 495 784 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000794.jpg 125 536 150 576 0 333 323 359 364 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000795.jpg 984 18 1007 56 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000796.jpg 300 612 326 679 0 984 147 1014 185 0 703 937 721 978 0 932 842 954 894 0 969 809 995 870 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000797.jpg 138 990 178 1023 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000798.jpg 439 88 492 106 0 667 270 685 310 0 696 479 714 523 0 795 845 847 866 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000799.jpg 540 785 590 825 0 864 299 944 323 0 39 151 61 199 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000801.jpg 391 443 443 482 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000802.jpg 225 182 244 223 0 634 417 655 472 0 633 480 654 524 0 848 251 878 294 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000803.jpg 456 619 495 669 0 928 878 958 919 0 598 88 628 141 0 134 225 191 259 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000804.jpg 126 904 175 951 0 802 466 818 512 0 677 561 721 581 0 815 465 869 548 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000805.jpg 749 230 789 280 0 714 285 758 331 0 558 595 588 643 0 529 772 552 812 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000806.jpg 825 106 879 152 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000807.jpg 116 332 167 363 0 342 352 409 401 0 724 63 775 124 0 780 733 816 772 0 765 747 798 785 0 798 706 830 745 0 551 950 593 986 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000808.jpg 50 26 103 69 0 29 850 58 893 0 216 616 261 653 0 462 959 508 1001 0 601 233 663 301 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000809.jpg 90 551 127 588 0 207 909 249 926 0 909 937 952 953 0 818 432 855 449 0 809 409 856 425 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000810.jpg 430 273 471 289 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000811.jpg 142 151 187 176 0 196 178 235 193 0 319 196 356 211 0 356 236 403 253 0 360 259 400 275 0 498 135 546 162 0 813 251 858 271 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000812.jpg 96 976 144 994 0 44 974 94 995 0 70 951 135 975 0 198 895 240 914 0 194 866 242 885 0 298 658 315 704 0 290 541 309 586 0 318 386 356 421 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000813.jpg 368 839 393 876 0 409 864 437 904 0 368 693 395 735 0 592 803 619 842 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000814.jpg 185 552 232 587 0 215 37 259 82 0 215 69 253 107 0 538 220 563 268 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000815.jpg 944 271 970 313 0 888 188 907 230 0 880 621 896 652 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000816.jpg 475 746 514 781 0 790 669 827 698 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000817.jpg 648 495 665 540 0 671 683 686 719 0 657 833 675 870 0 850 736 888 935 0 904 453 948 637 0 721 253 741 309 0 898 287 925 333 0 922 18 943 67 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000818.jpg 516 329 555 363 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000819.jpg 69 82 107 106 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000820.jpg 2 962 44 983 0 216 310 250 368 0 196 377 228 414 0 15 238 33 277 0 462 101 500 126 0 455 212 499 232 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000821.jpg 803 868 837 906 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000822.jpg 310 203 343 237 0 139 268 179 319 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000823.jpg 57 980 104 1022 0 778 384 819 412 0 913 566 947 604 0 992 138 1023 174 0 732 82 764 114 0 746 95 788 135 0 411 619 448 655 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000824.jpg 994 277 1012 298 0 685 57 714 97 0 719 54 748 92 0 793 150 822 186 0 883 40 912 81 0 832 310 864 355 0 940 599 967 637 0 823 472 967 722 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000825.jpg 281 940 313 989 0 698 846 733 892 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000826.jpg 896 92 938 130 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000827.jpg 543 645 575 690 0 446 898 487 924 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000828.jpg 93 329 132 358 0 10 433 38 477 0 446 548 488 582 0 574 718 600 757 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000829.jpg 805 938 845 956 0 545 930 589 948 0 974 723 993 766 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000830.jpg 31 837 64 869 0 473 274 530 295 0 477 253 527 271 0 890 208 916 268 0 908 257 934 301 0 806 327 844 342 0 930 567 983 602 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000831.jpg 281 274 310 309 0 283 689 306 728 0 945 366 972 437 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000832.jpg 98 623 135 641 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000833.jpg 701 252 738 266 0 775 417 813 464 0 829 419 865 465 0 889 417 920 457 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000834.jpg 238 439 254 476 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000835.jpg 671 94 710 109 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000836.jpg 451 250 500 292 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000837.jpg 409 950 452 998 0 413 787 526 879 0 364 825 401 853 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000838.jpg 391 152 440 184 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000839.jpg 233 513 275 538 0 149 437 230 512 0 122 397 159 434 0 393 277 438 320 0 922 922 958 961 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000840.jpg 172 927 209 967 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000841.jpg 49 324 85 360 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000842.jpg 288 470 315 521 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000843.jpg 464 838 511 865 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000844.jpg 527 335 568 367 0 544 261 588 298 0 588 172 619 207 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000845.jpg 88 237 127 278 0 194 384 236 427 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000846.jpg 654 538 688 570 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000847.jpg 149 131 183 167 0 685 468 725 513 0 966 812 1009 861 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000848.jpg 112 708 161 751 0 205 958 243 1019 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000849.jpg 511 994 556 1022 0 553 966 617 1011 0 801 841 849 873 0 785 813 824 839 0 153 179 192 212 0 338 63 378 99 0 265 339 304 368 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000850.jpg 910 767 966 815 0 629 6 665 31 0 751 345 791 382 0 517 43 585 100 0 892 259 928 272 0 667 8 716 49 0 695 37 734 71 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000851.jpg 107 408 151 432 0 773 961 813 998 0 765 984 802 1017 0 861 760 898 796 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000852.jpg 163 426 197 461 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000853.jpg 288 935 349 974 0 870 768 900 813 0 850 805 902 854 0 793 644 838 684 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000854.jpg 10 806 58 834 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000855.jpg 513 668 549 700 0 506 699 547 738 0 916 165 947 201 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000856.jpg 42 947 100 1017 0 39 769 81 821 0 114 800 156 848 0 748 592 788 611 0 714 543 754 561 0 761 446 812 480 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000857.jpg 235 119 274 168 0 266 123 303 171 0 371 194 402 237 0 110 744 155 771 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000858.jpg 148 669 185 704 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000859.jpg 517 165 567 208 0 454 384 505 403 0 142 863 171 914 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000860.jpg 54 192 82 227 0 32 101 96 161 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000861.jpg 59 289 132 332 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000862.jpg 104 503 186 674 0 402 41 438 66 0 369 32 402 56 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000863.jpg 236 229 282 263 0 623 512 694 546 0 628 278 671 313 0 751 264 804 329 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000864.jpg 212 451 240 466 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000865.jpg 748 205 875 276 0 777 170 854 220 0 647 226 685 256 0 923 101 976 131 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000866.jpg 457 138 497 154 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000867.jpg 41 134 70 187 0 161 34 201 47 0 916 602 961 634 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000868.jpg 769 14 809 30 0 715 14 757 32 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000869.jpg 30 432 68 449 0 354 441 401 459 0 893 450 932 465 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000870.jpg 469 393 549 429 0 77 873 98 926 0 300 123 371 187 0 683 874 746 934 0 33 711 82 731 0 117 315 148 349 0 263 306 296 355 0 262 184 311 226 0 283 123 315 159 0 402 138 464 187 0 378 477 420 505 0 283 944 328 974 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000871.jpg 461 600 533 652 0 481 677 567 701 0 590 713 630 730 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000872.jpg 549 170 597 187 0 745 372 800 396 0 501 556 540 589 0 895 401 991 428 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000873.jpg 944 79 975 118 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000874.jpg 229 813 280 846 0 485 492 522 528 0 261 476 287 514 0 830 416 861 453 0 811 428 839 464 0 829 314 863 346 0 869 372 900 405 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000875.jpg 232 458 270 492 0 437 348 475 384 0 703 234 753 271 0 924 475 993 541 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000876.jpg 832 957 887 1012 0 975 924 1008 959 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000877.jpg 946 901 988 966 0 809 70 852 118 0 729 119 804 177 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000879.jpg 407 884 453 925 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000880.jpg 31 253 70 279 0 484 13 564 50 0 565 9 609 34 0 763 476 801 505 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000881.jpg 404 75 446 105 0 62 657 91 690 0 432 435 481 471 0 1 355 32 396 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000882.jpg 356 139 403 167 0 229 41 308 82 0 966 325 1004 363 0 652 583 687 617 0 725 930 764 970 0 657 878 694 911 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000883.jpg 265 428 312 464 0 287 480 328 515 0 722 319 825 375 0 881 321 930 356 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000884.jpg 403 53 448 88 0 247 152 329 208 0 492 233 535 266 0 510 261 544 291 0 565 383 605 410 0 725 816 791 856 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000885.jpg 54 663 102 696 0 482 383 519 414 0 504 389 542 424 0 704 91 782 121 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000886.jpg 141 629 190 673 0 156 606 202 641 0 298 324 330 362 0 341 84 392 124 0 360 24 414 67 0 498 403 536 440 0 433 465 470 504 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000888.jpg 858 539 893 553 0 912 544 950 586 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000889.jpg 779 96 812 131 0 778 130 822 174 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000890.jpg 884 465 930 500 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000891.jpg 6 218 46 276 0 346 652 377 692 0 400 931 449 1007 0 558 568 582 604 0 546 441 595 523 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000892.jpg 626 481 655 544 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000893.jpg 785 194 824 231 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000894.jpg 269 814 311 830 0 315 815 356 832 0 234 999 270 1015 0 928 616 953 693 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000895.jpg 25 824 70 842 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000896.jpg 295 874 338 892 0 420 868 459 883 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000897.jpg 161 485 199 510 0 289 408 307 446 0 334 410 357 460 0 356 413 376 455 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000898.jpg 548 976 590 1003 0 871 849 926 883 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000899.jpg 67 212 100 250 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000900.jpg 170 16 189 53 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000901.jpg 893 21 935 44 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000902.jpg 801 792 822 838 0 816 856 871 926 0 787 698 808 747 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000903.jpg 954 669 985 696 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000904.jpg 614 21 652 56 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000905.jpg 756 711 794 735 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000906.jpg 729 303 787 381 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000907.jpg 62 302 109 337 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000908.jpg 714 325 746 365 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000909.jpg 122 956 139 991 0 516 893 575 954 0 648 727 672 773 0 849 999 892 1018 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000910.jpg 906 992 954 1015 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000911.jpg 5 825 24 864 0 168 666 205 683 0 168 698 209 721 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000912.jpg 123 91 148 128 0 95 84 123 124 0 354 6 387 54 0 470 32 515 57 0 445 79 486 140 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000913.jpg 671 261 694 317 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000914.jpg 351 127 383 163 0 834 581 852 619 0 730 420 756 487 0 637 288 667 356 0 489 304 509 351 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000915.jpg 686 626 718 717 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000916.jpg 118 23 157 50 0 171 144 214 170 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000917.jpg 351 248 382 283 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000918.jpg 488 129 522 161 0 747 70 778 126 0 754 265 814 300 0 760 617 809 633 0 927 640 946 680 0 865 785 889 816 0 829 661 861 699 0 927 688 947 734 0 819 833 851 857 0 987 852 1007 894 0 947 887 964 938 0 891 933 915 966 0 762 367 807 383 0 798 483 829 519 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000919.jpg 724 875 740 925 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000920.jpg 797 209 849 244 0 634 203 707 247 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000921.jpg 893 705 938 774 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000922.jpg 285 92 304 145 0 258 98 275 135 0 313 92 348 142 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000923.jpg 754 858 773 901 0 777 863 796 917 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000924.jpg 745 549 766 587 0 978 653 1012 689 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000925.jpg 389 347 410 379 0 466 356 482 397 0 738 340 754 375 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000926.jpg 708 279 795 306 0 622 397 706 421 0 614 450 681 474 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000927.jpg 299 765 336 810 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000928.jpg 248 17 275 92 0 278 28 309 104 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000929.jpg 657 200 745 230 0 671 244 714 265 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000930.jpg 202 603 252 648 0 87 725 127 760 0 619 663 652 695 0 519 557 562 572 0 494 500 543 540 0 332 145 360 234 0 303 236 322 268 0 376 176 398 230 0 403 189 420 230 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000931.jpg 67 27 87 67 0 417 595 466 637 0 588 567 619 593 0 521 553 593 605 0 565 636 608 674 0 930 695 954 743 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000932.jpg 110 673 163 692 0 38 709 81 726 0 24 733 64 751 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000933.jpg 196 192 235 211 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000934.jpg 302 313 323 357 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000935.jpg 469 858 494 898 0 469 910 494 949 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000936.jpg 179 720 201 768 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000937.jpg 576 758 601 800 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000938.jpg 163 268 181 309 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000939.jpg 15 755 144 891 0 286 657 320 697 0 304 566 349 615 0 418 478 459 520 0 585 269 621 309 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000940.jpg 650 163 695 182 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000941.jpg 161 320 206 364 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000942.jpg 100 161 180 259 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000943.jpg 589 807 625 827 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000944.jpg 880 407 901 455 0 852 599 872 641 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000945.jpg 6 660 132 810 0 326 388 358 426 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000946.jpg 93 546 127 589 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000947.jpg 463 802 496 845 0 748 256 780 300 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000948.jpg 138 116 171 164 0 155 234 220 303 0 52 21 75 61 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000949.jpg 951 224 969 261 0 921 275 945 325 0 998 269 1021 318 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000950.jpg 18 737 68 777 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000951.jpg 843 689 861 729 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000952.jpg 638 367 671 416 0 663 408 688 449 0 598 600 637 671 0 561 635 585 676 0 799 600 820 640 0 880 303 943 452 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000953.jpg 98 748 135 764 0 45 616 63 671 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000954.jpg 364 2 384 53 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000955.jpg 465 883 489 932 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000956.jpg 660 93 739 121 0 749 123 797 151 0 768 719 815 738 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000957.jpg 273 21 311 40 0 277 43 328 65 0 48 121 91 144 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000958.jpg 242 99 276 170 0 208 310 230 346 0 151 795 172 832 0 371 768 418 948 0 462 92 515 257 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000959.jpg 694 537 733 554 0 688 556 735 581 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000960.jpg 656 111 691 126 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000961.jpg 733 271 785 302 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000962.jpg 756 440 780 487 0 963 440 987 484 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000963.jpg 35 446 52 485 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000964.jpg 880 946 900 990 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000965.jpg 73 145 90 183 0 74 531 102 595 0 322 243 339 287 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000966.jpg 595 693 627 769 0 566 711 598 768 0 562 811 585 871 0 607 906 703 936 0 535 936 563 996 0 406 741 455 761 0 852 352 899 370 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000967.jpg 835 4 872 51 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000968.jpg 218 161 255 214 0 166 151 202 187 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000969.jpg 602 6 629 139 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000970.jpg 861 216 901 257 0 940 416 972 467 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000972.jpg 889 962 952 1012 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000973.jpg 980 20 1002 64 0 990 74 1014 119 0 1006 29 1023 67 0 974 717 1018 738 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000974.jpg 941 757 991 774 0 904 826 954 1015 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000975.jpg 808 361 831 394 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000976.jpg 824 231 874 256 0 790 251 873 319 0 813 296 870 352 0 785 286 819 336 0 760 275 788 325 0 567 151 609 179 0 701 49 748 68 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000977.jpg 553 91 570 139 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000978.jpg 667 798 726 826 0 796 620 816 674 0 817 572 866 602 0 840 530 885 560 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000979.jpg 439 926 487 943 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000980.jpg 428 954 465 991 0 816 116 840 163 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000981.jpg 510 363 544 399 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000982.jpg 739 134 780 171 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000983.jpg 268 841 317 863 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000984.jpg 809 951 836 987 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000985.jpg 564 359 629 388 0 317 720 342 786 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000986.jpg 661 114 712 149 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000987.jpg 977 41 1003 86 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000988.jpg 283 889 318 912 0 132 881 181 904 0 169 877 228 902 0 83 968 104 1017 0 24 805 64 822 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000989.jpg 962 47 1009 65 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000990.jpg 169 38 187 80 0 652 670 668 707 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000991.jpg 638 978 673 1024 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000992.jpg 119 813 186 856 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000993.jpg 880 957 920 974 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000994.jpg 831 922 877 942 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000995.jpg 454 787 478 836 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000996.jpg 160 597 202 616 0 160 410 202 434 0 156 391 198 412 0 122 92 139 118 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000997.jpg 93 143 130 157 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000998.jpg 663 823 686 857 0 699 819 727 879 0 988 829 1012 874 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00000999.jpg 802 423 827 498 0 764 393 810 413 0 874 264 919 282 0 947 56 973 129 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001000.jpg 320 353 339 398 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001001.jpg 971 439 999 504 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001002.jpg 17 460 44 523 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001003.jpg 794 423 864 502 0 810 48 887 107 0 732 250 861 320 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001004.jpg 82 233 133 253 0 62 408 93 475 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001005.jpg 477 692 523 714 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001006.jpg 757 318 777 370 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001007.jpg 633 723 665 773 0 597 737 615 776 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001008.jpg 881 237 914 279 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001009.jpg 813 954 857 999 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001010.jpg 297 309 356 348 0 793 74 839 137 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001011.jpg 323 282 339 318 0 632 195 672 230 0 663 131 702 188 0 742 69 769 139 0 613 319 655 336 0 619 338 671 370 0 678 353 727 376 0 894 39 933 92 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001012.jpg 342 444 360 481 0 345 492 363 529 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001013.jpg 266 943 313 990 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001014.jpg 302 692 329 770 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001015.jpg 917 511 958 546 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001016.jpg 867 462 937 500 0 838 357 944 392 0 651 348 712 488 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001017.jpg 252 685 296 704 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001018.jpg 344 77 395 228 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001019.jpg 666 213 690 265 0 606 783 629 829 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001020.jpg 35 521 91 565 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001021.jpg 915 257 944 306 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001022.jpg 840 366 874 411 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001023.jpg 19 304 69 325 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001024.jpg 791 468 827 507 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001025.jpg 729 291 772 339 0 703 312 739 361 0 680 255 729 326 0 658 287 695 335 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001026.jpg 770 939 806 999 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001027.jpg 923 750 973 777 0 589 605 654 660 0 434 361 492 406 0 386 523 454 584 0 531 222 559 293 0 596 248 612 287 0 713 218 733 259 0 895 542 949 577 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001028.jpg 805 433 847 477 0 769 378 820 414 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001029.jpg 52 871 98 892 0 479 751 515 804 0 359 457 377 493 0 756 573 790 607 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001030.jpg 89 502 123 531 0 65 541 200 678 0 242 452 286 497 0 337 391 380 430 0 392 307 429 339 0 502 192 542 232 0 568 63 712 202 0 685 15 717 47 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001031.jpg 173 561 211 576 0 773 260 792 306 0 798 388 844 413 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001032.jpg 406 765 457 785 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001033.jpg 377 734 425 778 0 515 818 566 835 0 571 823 619 840 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001034.jpg 911 696 938 759 0 800 661 824 728 0 826 675 849 750 0 796 489 849 512 0 941 315 959 359 0 937 229 954 271 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001035.jpg 964 588 992 624 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001036.jpg 588 138 604 178 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001037.jpg 886 906 913 939 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001038.jpg 598 713 639 747 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001039.jpg 363 487 399 529 0 561 246 594 282 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001040.jpg 482 744 515 781 0 513 642 544 675 0 634 512 667 548 0 774 305 812 345 0 896 392 1012 539 0 701 737 733 777 0 600 942 632 981 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001041.jpg 182 9 218 50 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001042.jpg 968 17 993 61 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001043.jpg 248 429 290 455 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001044.jpg 889 815 908 857 0 728 867 774 907 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001045.jpg 654 634 676 688 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001046.jpg 128 154 166 183 0 689 165 780 192 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001047.jpg 150 943 168 989 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001048.jpg 716 595 870 622 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001049.jpg 142 637 231 662 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001050.jpg 888 642 941 661 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001051.jpg 971 303 1011 319 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001052.jpg 7 121 39 165 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001053.jpg 405 102 427 150 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001054.jpg 833 892 878 934 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001055.jpg 46 228 88 260 0 15 283 66 331 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001056.jpg 206 719 228 770 0 315 884 366 920 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001057.jpg 790 985 826 1002 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001058.jpg 645 674 690 725 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001059.jpg 758 124 783 168 0 664 90 700 157 0 628 151 651 194 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001060.jpg 797 115 816 160 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001061.jpg 317 460 355 485 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001062.jpg 553 18 580 75 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001063.jpg 645 777 688 818 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001064.jpg 639 108 691 132 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001065.jpg 350 23 370 68 0 391 26 415 72 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001066.jpg 543 567 594 591 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001067.jpg 809 229 849 243 0 571 139 588 180 0 888 493 906 544 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001068.jpg 1 748 47 763 0 3 766 40 781 0 3 656 39 672 0 254 524 284 560 0 106 812 146 829 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001069.jpg 626 655 648 702 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001070.jpg 355 145 401 174 0 675 256 723 300 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001071.jpg 608 509 648 527 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001072.jpg 374 52 400 82 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001073.jpg 907 460 928 504 0 861 555 899 571 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001074.jpg 264 479 294 633 0 427 284 476 321 0 470 281 544 315 0 268 852 287 889 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001075.jpg 764 241 797 280 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001076.jpg 876 204 911 281 0 891 369 914 411 0 753 483 804 505 0 806 484 854 516 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001077.jpg 933 285 955 329 0 852 402 902 421 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001078.jpg 957 40 980 85 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001079.jpg 508 588 525 625 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001080.jpg 424 160 449 207 0 294 65 321 116 0 639 368 694 407 0 685 394 735 428 0 726 290 764 309 0 504 429 551 444 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001081.jpg 58 141 124 165 0 23 352 67 392 0 339 247 389 268 0 390 248 442 270 0 377 287 469 311 0 475 390 513 406 0 910 851 953 872 0 617 979 665 999 0 555 945 594 963 0 532 981 573 1001 0 281 841 325 865 0 552 19 594 89 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001082.jpg 223 951 253 982 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001083.jpg 934 772 973 800 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001084.jpg 227 789 295 810 0 105 930 166 961 0 339 928 365 1015 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001085.jpg 769 895 820 916 0 777 924 820 940 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001086.jpg 114 904 131 938 0 84 939 104 990 0 125 974 151 1015 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001087.jpg 653 797 671 843 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001088.jpg 652 84 671 131 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001089.jpg 985 923 1017 961 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001090.jpg 777 276 819 295 0 684 249 740 272 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001091.jpg 542 743 570 795 0 475 720 501 765 0 538 610 574 654 0 932 646 957 686 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001092.jpg 176 349 241 373 0 435 90 473 134 0 524 97 553 134 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001093.jpg 600 517 741 668 0 586 628 688 733 0 927 590 964 630 0 444 750 479 784 0 607 988 644 1024 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001094.jpg 235 267 282 319 0 186 297 260 374 0 191 279 225 320 0 19 462 59 504 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001095.jpg 271 105 304 153 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001096.jpg 414 280 447 315 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001097.jpg 590 102 726 251 0 689 47 728 86 0 269 265 309 306 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001098.jpg 462 465 501 511 0 360 649 398 690 0 556 686 598 732 0 569 721 606 762 0 780 401 814 444 0 669 256 706 296 0 823 10 903 96 0 734 117 771 161 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001099.jpg 793 245 834 291 0 872 372 929 411 0 833 466 881 489 0 812 274 869 345 0 932 720 953 766 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001100.jpg 482 83 516 124 0 373 171 415 221 0 285 326 332 376 0 116 552 153 592 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001101.jpg 271 17 311 48 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001102.jpg 216 844 244 930 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001103.jpg 185 75 223 93 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001104.jpg 778 454 803 485 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001105.jpg 9 526 28 570 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001106.jpg 47 15 89 50 0 101 12 164 34 0 263 52 308 72 0 91 97 127 140 0 112 341 152 358 0 111 373 163 390 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001107.jpg 286 763 327 785 0 289 798 326 820 0 723 596 765 613 0 672 600 713 617 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001108.jpg 204 253 265 280 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001109.jpg 491 636 528 675 0 500 555 546 586 0 423 787 441 830 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001110.jpg 833 570 973 607 0 871 684 922 702 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001111.jpg 373 143 400 225 0 124 291 152 332 0 423 816 462 899 0 464 846 484 895 0 463 682 484 738 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001112.jpg 522 339 572 361 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001113.jpg 850 148 902 181 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001114.jpg 731 290 759 322 0 387 367 418 419 0 246 330 291 347 0 207 356 243 374 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001115.jpg 166 614 227 645 0 77 623 124 642 0 2 655 55 672 0 573 598 634 641 0 500 618 562 642 0 497 736 561 758 0 467 709 518 730 0 455 602 496 621 0 484 659 523 693 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001116.jpg 542 117 589 136 0 491 674 522 715 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001117.jpg 75 600 95 648 0 182 445 248 469 0 258 457 303 472 0 261 425 309 441 0 444 617 462 658 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001118.jpg 745 643 794 685 0 948 846 984 885 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001119.jpg 119 598 156 637 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001120.jpg 107 263 161 321 0 65 175 189 325 0 260 38 292 82 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001121.jpg 147 161 192 176 0 493 266 517 309 0 677 261 702 310 0 607 266 625 308 0 937 210 977 225 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001122.jpg 567 285 588 325 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001123.jpg 872 198 891 239 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001124.jpg 484 759 504 799 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001125.jpg 488 706 508 751 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001126.jpg 902 765 934 816 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001127.jpg 483 268 501 305 0 486 963 508 1009 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001128.jpg 233 63 275 82 0 273 104 322 123 0 275 133 328 152 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001129.jpg 608 147 656 166 0 606 174 650 190 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001130.jpg 521 260 570 279 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001131.jpg 727 463 769 499 0 712 534 757 553 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001132.jpg 504 122 524 171 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001133.jpg 67 650 117 685 0 295 828 313 870 0 818 496 844 531 0 767 248 803 333 0 428 276 459 356 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001134.jpg 30 337 57 405 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001135.jpg 167 85 212 116 0 216 139 382 165 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001136.jpg 205 568 232 598 0 233 574 256 619 0 276 706 324 737 0 492 624 542 642 0 698 386 724 537 0 265 940 291 1008 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001137.jpg 760 504 789 634 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001138.jpg 175 832 205 876 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001139.jpg 821 885 842 921 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001140.jpg 132 592 154 643 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001141.jpg 189 637 228 674 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001142.jpg 171 513 194 556 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001144.jpg 1 500 38 517 0 895 310 922 395 0 894 251 919 306 0 895 127 931 172 0 803 101 827 147 0 739 227 787 252 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001146.jpg 216 542 261 570 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001147.jpg 54 986 99 1007 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001148.jpg 303 106 323 145 0 424 113 443 154 0 909 637 938 696 0 881 461 902 508 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001149.jpg 38 324 71 340 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001150.jpg 239 315 278 334 0 915 555 937 607 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001151.jpg 585 328 623 345 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001152.jpg 739 729 784 771 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001153.jpg 505 834 549 870 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001154.jpg 873 34 919 99 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001155.jpg 338 12 382 29 0 336 37 380 57 0 368 102 431 126 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001156.jpg 183 141 222 155 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001157.jpg 384 50 439 72 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001158.jpg 634 790 653 835 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001159.jpg 957 350 977 398 0 979 339 1000 386 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001160.jpg 216 339 249 376 0 271 515 296 562 0 298 480 315 525 0 374 388 413 410 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001161.jpg 289 160 308 203 0 312 154 329 192 0 357 275 378 321 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001162.jpg 164 651 192 709 0 754 767 776 810 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001163.jpg 93 896 118 948 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001164.jpg 51 19 100 46 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001165.jpg 360 946 398 962 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001166.jpg 473 401 524 422 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001167.jpg 638 536 678 556 0 817 957 831 1001 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001168.jpg 637 833 688 853 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001169.jpg 449 339 475 419 0 437 76 463 154 0 438 160 465 215 0 227 112 289 137 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001170.jpg 735 780 776 809 0 611 876 691 909 0 550 864 602 885 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001171.jpg 693 23 730 74 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001172.jpg 671 221 722 244 0 748 220 790 236 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001173.jpg 357 391 382 426 0 526 534 557 599 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001174.jpg 917 277 953 324 0 890 226 932 277 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001175.jpg 964 704 984 749 0 962 764 987 832 0 929 688 960 734 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001176.jpg 3 820 18 863 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001177.jpg 824 852 866 870 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001178.jpg 123 21 145 70 0 48 122 103 143 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001179.jpg 823 907 848 956 0 757 862 784 943 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001180.jpg 250 100 290 139 0 242 153 299 182 0 392 607 430 629 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001181.jpg 416 302 454 319 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001182.jpg 453 880 490 898 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001183.jpg 291 902 334 918 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001184.jpg 117 213 140 259 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001186.jpg 838 27 872 68 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001187.jpg 667 234 711 263 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001188.jpg 58 511 89 547 0 703 452 746 517 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001189.jpg 717 595 794 629 0 594 463 625 494 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001190.jpg 351 742 389 773 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001191.jpg 744 795 789 841 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001192.jpg 0 141 34 179 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001193.jpg 385 57 434 97 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001194.jpg 992 53 1011 99 0 970 58 990 100 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001195.jpg 171 415 218 440 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001196.jpg 740 669 762 717 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001197.jpg 495 430 533 457 0 443 395 470 430 0 330 398 372 432 0 261 438 289 471 0 653 483 677 551 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001198.jpg 289 356 372 379 0 164 326 203 344 0 559 918 610 937 0 718 486 742 530 0 662 531 689 585 0 663 568 690 665 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001199.jpg 313 157 338 203 0 390 346 433 384 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001200.jpg 845 84 884 116 0 877 105 939 155 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001201.jpg 621 742 663 762 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001202.jpg 581 523 625 543 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001203.jpg 237 332 282 382 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001204.jpg 581 491 657 521 0 645 537 711 561 0 785 525 803 567 0 726 485 754 530 0 946 676 972 726 0 691 704 730 729 0 925 829 969 869 0 938 975 976 1023 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001205.jpg 44 853 221 891 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001206.jpg 934 533 990 554 0 832 392 860 461 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001207.jpg 563 230 604 247 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001208.jpg 668 548 719 574 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001209.jpg 981 26 997 66 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001210.jpg 203 10 221 55 0 543 12 589 51 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001211.jpg 868 206 894 243 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001212.jpg 742 36 760 77 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001213.jpg 501 673 520 712 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001214.jpg 749 395 772 423 0 777 440 799 483 0 912 433 943 485 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001215.jpg 41 39 71 57 0 246 276 273 327 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001216.jpg 307 490 367 532 0 722 591 771 648 0 885 404 933 435 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001217.jpg 739 806 785 847 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001218.jpg 740 204 768 250 0 458 56 483 108 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001219.jpg 527 783 572 826 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001220.jpg 703 833 748 886 0 605 805 655 853 0 817 699 866 743 0 856 740 899 772 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001221.jpg 775 404 809 427 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001222.jpg 182 37 223 61 0 603 335 643 377 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001223.jpg 531 658 559 697 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001224.jpg 49 703 75 774 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001225.jpg 660 349 682 395 0 670 409 690 452 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001226.jpg 627 689 697 715 0 556 693 605 727 0 505 864 527 904 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001227.jpg 538 131 594 151 0 552 153 618 182 0 641 290 663 340 0 608 382 649 416 0 609 414 659 452 0 535 406 565 428 0 534 949 554 1000 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001228.jpg 386 279 408 319 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001229.jpg 712 658 743 745 0 707 757 743 776 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001230.jpg 816 356 864 381 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001231.jpg 194 242 226 289 0 30 128 66 178 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001232.jpg 361 571 411 591 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001233.jpg 65 961 83 1000 0 337 928 369 1010 0 438 906 470 949 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001234.jpg 505 676 526 722 0 502 726 522 765 0 704 467 746 487 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001235.jpg 569 77 621 115 0 535 134 586 152 0 243 541 275 595 0 546 809 579 860 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001236.jpg 234 18 254 64 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001237.jpg 232 255 282 276 0 246 285 265 336 0 264 287 295 336 0 283 357 337 388 0 260 398 289 446 0 197 222 228 264 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001238.jpg 148 582 164 619 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001239.jpg 300 268 348 304 0 619 35 688 68 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001240.jpg 382 794 401 839 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001241.jpg 323 826 358 846 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001242.jpg 789 109 836 134 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001243.jpg 43 480 58 522 0 83 469 107 509 0 97 408 130 458 0 120 569 154 590 0 85 605 137 630 0 86 640 120 660 0 79 701 169 739 0 46 332 107 364 0 65 359 106 388 0 86 734 149 758 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001245.jpg 466 296 515 334 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001246.jpg 20 433 43 477 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001247.jpg 319 766 390 821 0 370 752 418 792 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001249.jpg 941 456 972 473 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001250.jpg 557 10 609 29 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001251.jpg 349 771 372 805 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001252.jpg 502 724 546 743 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001253.jpg 868 892 887 935 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001254.jpg 645 916 665 975 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001255.jpg 818 324 858 340 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001256.jpg 30 722 109 749 0 116 727 160 744 0 134 545 181 567 0 192 522 212 562 0 228 363 281 382 0 556 506 605 526 0 281 690 308 712 0 818 476 861 494 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001257.jpg 313 852 361 870 0 278 884 330 904 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001258.jpg 725 297 746 341 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001259.jpg 676 317 721 337 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001260.jpg 45 415 104 448 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001261.jpg 842 293 874 333 0 825 353 854 401 0 875 412 913 452 0 958 396 997 418 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001262.jpg 723 847 749 905 0 723 810 744 849 0 714 715 745 796 0 711 575 731 620 0 706 493 729 533 0 673 228 698 260 0 175 349 217 373 0 304 732 343 750 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001263.jpg 32 445 50 490 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001264.jpg 942 477 963 519 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001265.jpg 607 238 648 278 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001266.jpg 844 100 912 123 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001267.jpg 858 665 937 688 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001268.jpg 274 11 310 64 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001269.jpg 150 414 196 434 0
+/home/somsukla/Desktop/Yolo/tensorflow-yolo/data/images_jpg/00001270.jpg 224 816 263 831 0 216 843 264 861 0 285 837 331 856 0 442 272 463 319 0 717 237 748 321 0 815 403 852 423 0
